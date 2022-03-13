@@ -1,14 +1,14 @@
 ---
-permalink: /publications/
+permalink: /publications
 title: "Publications"
 excerpt: ""
 author_profile: false
 redirect_from: 
-  - /publications/
+#   - /publications/
   - /publications.html
 ---
-Publications
-Journal Papers
+
+# Journal Papers
 1. X. Li, G. Zhu, K. Shen, W. Yu, Y. Gong, and K. Huang, “Joint Annotator-and-Spectrum Allocation in Wireless Networks for Crowd Labelling”, IEEE Transactions on Wireless Communications, vol. 19, no. 9, pp. 6116-6128, Sep. 2020. (SCI Q1)
 2. X. Li, G. Zhu, Y. Gong, and K. Huang, “Wirelessly Powered Data Aggregation for IoT via Over-the-Air Function Computation: Beamforming and Power Control”, IEEE Transactions on Wireless Communications, vol. 18, no. 7, pp. 3437-3452, July 2019. (SCI Q1)
 3. X. Li, C. You, S. Andreev, Y. Gong, and K. Huang, “Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression and Transmission”, IEEE Journal on Selected Areas in Communications, vol. 37, no. 2, pp. 391-406, Feb. 2019. (SCI Q1)
@@ -20,7 +20,8 @@ Journal Papers
 9. S. Wang, X. Li, and Y. Gong, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, submitted to IEEE Transactions on Wireless Communications, under review, 2021. (SCI Q1)
 10. D. Wen, X. Li, Q. Zeng, J. Ren, K. Huang, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning”, Journal of Communications and Information Networks, vol. 4, no. 4, pp. 1-14, Dec. 2019. (invited paper)
 11. X. Li, Yi Gong, “Wireless Crowdsensing Design based on Over-the-air Computation”，ZTE Communications, vol. 26, no. 4, pp. 18-22, Aug. 2020. (invited paper)
-Conference Papers
+
+# Conference Papers
 1. X. Li, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong, “Integrated Sensing and Over-the-Air Computation: Dual-Functional MIMO Beamforming Design”, in Proc. 1st International Conference on 6G Networking, Paris, France, 2022. (invited paper)
 2. X. Li, S. Wang, G. Zhu, Z. Zhou, K. Huang, and Y. Gong, “Learning and Energy Efficient Edge Intelligence: Data Partition and Rate Control”, in Proc. IEEE International Conference on Communications, Seoul, Korea, 2022.
 3. X. Li, G. Zhu, K. Han, K. Huang, and Y. Gong, “Joint Annotator Clustering and Power Allocation for Energy Efficient Wireless Crowd Labelling”, in Proc. IEEE Global Communications Conference, Madrid, Spain, 2021.
@@ -30,7 +31,8 @@ Conference Papers
 7. X. Li, Z. Han, Y. Gong, “Adaptive multi-band resource allocation for a two-user simultaneous information and power transmission system,” in Proc. International Conference on Wireless Communications and Signal Processing, Nanjing, China, 2017.
 8. Z. Lin, X. Li, V. Lau, Y. Gong and K. Huang, "Spatial Convergence of Federated Learning in Large-Scale Cellular Networks," in Proc. IEEE 22nd International Workshop on Signal Processing Advances in Wireless Communications, virtual, 2021. (invited paper)
 9. M. Chen, Z. Han, X. Li, Y. Gong, and L. Qian, “Universal Filtered Multi-carrier Based Multi-user Simultaneous Wireless Information and Power Transfer Downlink System”, in Proc. IEEE International Conference on Communications in China, Beijing, China, 2018. 
-Patents
+
+# Patents
 1.	Y. Gong, Z. Han, Y. Zhang, X. Li, M. Li, “A Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, US Patent No.: 10,211,957 B2, 2019.02
 2.	Y. Gong, X. Li, Z. Han, “Method, Network Equipment, Terminal, System and Storage Medium for Data Labeling”, China Invention Patent, in application, 2020.
 3.	Y. Gong, Z. Han, X. Li, Chenghao Zheng, “Controlling Method and Device”, China Invention Patent No.: ZL201610654131.0, 2019.04.
