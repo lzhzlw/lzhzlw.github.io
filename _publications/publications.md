@@ -1,3 +1,12 @@
+---
+permalink: /publications/
+title: "Publications"
+excerpt: ""
+author_profile: false
+redirect_from: 
+  - /publications/
+  - /publications.html
+---
 Publications
 Journal Papers
 1. X. Li, G. Zhu, K. Shen, W. Yu, Y. Gong, and K. Huang, “Joint Annotator-and-Spectrum Allocation in Wireless Networks for Crowd Labelling”, IEEE Transactions on Wireless Communications, vol. 19, no. 9, pp. 6116-6128, Sep. 2020. (SCI Q1)
