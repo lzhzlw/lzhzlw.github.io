@@ -7,9 +7,9 @@ main:
     url: "/publications/"
 
   - title: "Reviewer Activities"
-    url: "/reviewer"
+    url: "/reviewer_activities/"
 
   - title: "TPC Membership"
-    url: "/membership"
+    url: "/tpc_membership/"
 
 
