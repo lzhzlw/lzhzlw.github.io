@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Xiaoyang Li"
-  avatar           : "images/portrait.png"
+  avatar           : "images/portrait.jpg"
   bio              : "Southern University of Science and Technology (SUSTech)"
   location         : "Shenzhen, China"
   employer         :
