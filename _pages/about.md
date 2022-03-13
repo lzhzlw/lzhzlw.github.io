@@ -19,7 +19,8 @@ redirect_from:
 
 # About me
 Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 2020, and the B.S. degree from Southern University of Science and Technology (SUSTech) in 2016. Currently, he is a distinguished Postdoc researcher in SUSTech. He has been recognized as Overseas Talent Postdoc in Guangdong and Overseas High-caliber Personnel in Shenzhen. His research interests include integrated sensing and communication, edge learning, mobile crowd sensing, wireless crowd labeling, over-the-air computation, and wireless power transfer.
-<a href='https://scholar.google.com/citations?user=MyorWTwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>
+<!-- 这一行是总citations的数据 -->
+<!-- <a href='https://scholar.google.com/citations?user=MyorWTwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # Research Interests
 - Integrated sensing, communication, and computation
