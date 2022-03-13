@@ -63,7 +63,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - _publications
   - files
 exclude:
   - docs
@@ -127,13 +126,6 @@ defaults:
     values:
       layout: default
       author_profile: true
-  # _publications
-  - scope:
-      path: "publications"
-      type: pages
-    values:
-      layout: default
-      author_profile: false
 
 
 # Sass/SCSS
