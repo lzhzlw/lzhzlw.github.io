@@ -59,6 +59,8 @@ author:
   wikipedia        :
 
 
+# Usually no need to edit the entries below
+# 
 # Reading Files
 include:
   - .htaccess
