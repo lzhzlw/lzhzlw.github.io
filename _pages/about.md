@@ -61,3 +61,10 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
 - National Natural Science Foundation of China, “Technologies of Mobile Crowd Sensing and Communication for Sensor Networks”, Grant No.: 29857528, PI, 2022-2024.
 - China Postdoctoral Science Foundation, “Research on Key Technologies of Wireless Crowd Sensing for Sensor Networks”, Grant No.: 2021M691452, PI, 2020-2022.
 - National Natural Science Foundation of China, “Research on Key Technologies for Wireless Crowd Labelling”, Grant No.: 62071212, Core Member, 2021-2024.
+
+# Publications
+- X. Li, G. Zhu, Y. Gong, and K. Huang, “Wirelessly Powered Data Aggregation for IoT via Over-the-Air Function Computation: Beamforming and Power Control”, IEEE Transactions on Wireless Communications, vol. 18, no. 7, pp. 3437-3452, July 2019. (SCI Q1) <span class='show_paper_citations' data='MyorWTwAAAAJ:d1gkVwhDpl0C'></span>
+- X. Li, C. You, S. Andreev, Y. Gong, and K. Huang, “Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression and Transmission”, IEEE Journal on Selected Areas in Communications, vol. 37, no. 2, pp. 391-406, Feb. 2019. (SCI Q1) <span class='show_paper_citations' data='MyorWTwAAAAJ:u5HHmVD_uO8C'></span>
+- X. Li, G. Zhu, K. Shen, W. Yu, Y. Gong, and K. Huang, “Joint Annotator-and-Spectrum Allocation in Wireless Networks for Crowd Labelling”, IEEE Transactions on Wireless Communications, vol. 19, no. 9, pp. 6116-6128, Sep. 2020. (SCI Q1) <span class='show_paper_citations' data='MyorWTwAAAAJ:IjCSPb-OGe4C'></span>
+
+[Full list of publications.](/publications/)
