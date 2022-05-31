@@ -43,9 +43,6 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
 - *2020.10 to present*, Southern University of Science and Technology (SUSTech)
   - Distinguished Postdoc
   - Supervisor: Prof. Yi Gong
-- *2022.06 to present*, Tsinghua University
-  - Visiting scholar
-  - Supervisor: Prof. Zhisheng Niu
 - *2016.09 to 2020.12*, The University of Hong Kong
   - PhD degree
   - Supervisor: Prof. Kaibin Huang
