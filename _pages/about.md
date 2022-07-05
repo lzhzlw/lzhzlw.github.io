@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 2020, and the B.S. degree from Southern University of Science and Technology (SUSTech) in 2016. Currently, he is a distinguished Postdoc researcher in SUSTech. He has been recognized as Overseas Talent Postdoc in Guangdong and Overseas High-caliber Personnel in Shenzhen. His research interests include integrated sensing and communication, edge learning, mobile crowd sensing, wireless crowd labeling, over-the-air computation, and wireless power transfer.
+Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 2020, and the B.S. degree from Southern University of Science and Technology (SUSTech) in 2016. Currently, he is a Presidential Distinguished Research Fellow in SUSTech. He has been recognized as Overseas Youth Talent in Guangdong and Overseas High-caliber Personnel in Shenzhen. His research interests include integrated sensing and communication, edge learning, mobile crowd sensing, wireless crowd labeling, over-the-air computation, and wireless power transfer.
 <!-- 这一行是总citations的数据 -->
 <!-- <a href='https://scholar.google.com/citations?user=MyorWTwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
@@ -31,9 +31,9 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
 
 
 # Honors and Awards
-- Guangdong Overseas Talent Postdoc, 2021.
+- Guangdong Overseas Youth Talent, 2021.
 - Shenzhen Overseas High-caliber Personnel, 2021.
-- SUSTech Distinguished Postdoc, 2021.
+- SUSTech Presidential Distinguished Research Fellow, 2021.
 - First prize at the PhD Forum of Shenzhen, Hong Kong, Macao and Taiwan, 2017.
 - SUSTech Outstanding graduation thesis of Bachelor degree, 2016.
 - SUSTech Outstanding graduate of Bachelor degree, 2016.
@@ -41,8 +41,7 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
 
 # Educations
 - *2020.10 to present*, Southern University of Science and Technology (SUSTech)
-  - Distinguished Postdoc
-  - Supervisor: Prof. Yi Gong
+  - Presidential Distinguished Research Fellow
 - *2016.09 to 2020.12*, The University of Hong Kong
   - PhD degree
   - Supervisor: Prof. Kaibin Huang
