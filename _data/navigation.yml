@@ -9,4 +9,5 @@ main:
   - title: "TPC Membership"
     url: "/tpc_membership/"
 
-
+  - title: "Projects"
+    url: "/projects/"
