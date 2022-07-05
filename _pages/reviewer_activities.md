@@ -13,6 +13,7 @@ author_profile: true
 - IEEE Internet of Things Journal
 - IEEE Network Magazine
 - IEEE Transactions on Green Communications and Networking
+- IEEE Transactions on Dependable and Secure Computing
 - IEEE Access
 - IEEE Wireless Communications Letters
 - IEEE Communications Letters
