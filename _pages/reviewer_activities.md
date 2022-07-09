@@ -17,6 +17,7 @@ author_profile: true
 - IEEE Access
 - IEEE Wireless Communications Letters
 - IEEE Communications Letters
+- EURASIP Journal on Advances in Signal Processing
 - IEEE International Conference on Communications
 - IEEE Global Communications Conference
 - IEEE International Conference on Digital Signal Processing
