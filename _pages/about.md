@@ -29,16 +29,6 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
 - Crowd sensing and labelling
 - Wirelessly powered communications
 
-
-# Honors and Awards
-- Guangdong Overseas Youth Talent, 2021.
-- Shenzhen Overseas High-caliber Personnel, 2021.
-- SUSTech Presidential Distinguished Research Fellow, 2021.
-- First prize at the PhD Forum of Shenzhen, Hong Kong, Macao and Taiwan, 2017.
-- SUSTech Outstanding graduation thesis of Bachelor degree, 2016.
-- SUSTech Outstanding graduate of Bachelor degree, 2016.
-- Shenzhen Universiade International Scholarship, 2015.
-
 # Educations
 - *2020.10 to present*, Southern University of Science and Technology (SUSTech)
   - Presidential Distinguished Research Fellow
@@ -51,7 +41,15 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
 - *2012.09 to 2016.07*, SUSTech
   - Bachelor degree
   - Supervisor: Prof. Yi Gong
-
+ 
+# Honors and Awards
+- Guangdong Overseas Youth Talent, 2021.
+- Shenzhen Overseas High-caliber Personnel, 2021.
+- SUSTech Presidential Distinguished Research Fellow, 2021.
+- First prize at the PhD Forum of Shenzhen, Hong Kong, Macao and Taiwan, 2017.
+- SUSTech Outstanding graduation thesis of Bachelor degree, 2016.
+- SUSTech Outstanding graduate of Bachelor degree, 2016.
+- Shenzhen Universiade International Scholarship, 2015.
 
 # Projects
 - National Natural Science Foundation of China (NSFC), “Technologies of Mobile Crowd Sensing and Communication for Sensor Networks”, Grant No.: 29857528, ¥300k, PI, 2022-2024.
