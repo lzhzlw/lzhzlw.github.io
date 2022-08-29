@@ -1,6 +1,6 @@
 ---
 permalink: /professional_activities/
-title: "Professional activities"
+title: "Professional Activities"
 excerpt: ""
 author_profile: true
 ---
