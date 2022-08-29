@@ -1,5 +1,5 @@
 ---
-permalink: /tpc_membership/
+permalink: /professional_activities/
 title: "Professional activities"
 excerpt: ""
 author_profile: true
