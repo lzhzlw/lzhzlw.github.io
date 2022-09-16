@@ -9,7 +9,7 @@ author_profile: true
 ---
 
 # Journal Papers
-1. **X. Li**, G. Zhu, K. Shen, K. Han, K. Huang, and Y. Gong, “Energy Efficient Wireless Crowd Labelling: Joint Annotator Clustering and Power Allocation”, submitted to IEEE Transactions on Wireless Communications, early access, 2021. (SCI Q1)
+1. **X. Li**, G. Zhu, K. Shen, K. Han, K. Huang, and Y. Gong, “Energy Efficient Wireless Crowd Labelling: Joint Annotator Clustering and Power Allocation”, IEEE Transactions on Wireless Communications, early access, 2021. (SCI Q1)
 2. Z. Zhou, **X. Li***, C. You, K. Huang, and Y. Gong, “Joint Sensing and Communication Rates Control for Energy Efficient Mobile Crowd Sensing”, IEEE Transactions on Wireless Communications, early access, 2022. (SCI Q1, corresponding author)
 3. **X. Li**, S. Wang, G. Zhu, Z. Zhou, K. Huang, and Y. Gong, “Data Partition and Rate Control for Learning and Energy Efficient Edge Intelligence”, IEEE Transactions on Wireless Communications, early access, 2022. (SCI Q1)
 4. **X. Li**, G. Zhu, K. Shen, W. Yu, Y. Gong, and K. Huang, “Joint Annotator-and-Spectrum Allocation in Wireless Networks for Crowd Labelling”, IEEE Transactions on Wireless Communications, vol. 19, no. 9, pp. 6116-6128, Sep. 2020. (SCI Q1)
