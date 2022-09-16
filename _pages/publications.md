@@ -21,7 +21,7 @@ author_profile: true
 10. **X. Li**, Z. Zhou, and Yi Gong, “Beamforming Design for Integrated Sensing, Communication and Computation”，submitted to ZTE Communications. (invited paper)
 11. Z. Lin, **X. Li**, V. Lau, Y. Gong and K. Huang, “Deploying Federated Learning in Large-Scale Cellular Networks: Spatial Convergence Analysis”, IEEE Transactions on Wireless Communications, vol. 21, no. 3, pp. 1542-1556, March 2022. (SCI Q1)
 12. D. Wen, **X. Li**, Q. Zeng, J. Ren, K. Huang, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning”, Journal of Communications and Information Networks, vol. 4, no. 4, pp. 1-14, Dec. 2019. (invited paper)
-13. S. Wang, **X. Li**, and Y. Gong, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, submitted to IEEE Transactions on Wireless Communications, under review, 2021. (SCI Q1)
+13. S. Wang, **X. Li**, and Y. Gong, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, IEEE Transactions on Communications, under review, 2021. (SCI Q1)
 
 # Conference Papers
 1. X. Li, Z. Han, Z. Zhou, Q. Zhang, and Y. Gong, “Wirelessly Powered Integrated Sensing and Communication”, in Proc. 1st ACM MobiCom Workshop on Integrated Sensing and Communication Systems (ISACom), Sydney, Australia, 2022.
