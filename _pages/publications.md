@@ -18,7 +18,7 @@ author_profile: true
 7. **X. Li**, C. You, S. Andreev, Y. Gong, and K. Huang, “Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression and Transmission”, IEEE Journal on Selected Areas in Communications, vol. 37, no. 2, pp. 391-406, Feb. 2019. (SCI Q1)
 8. **X. Li**, Y. Gong, K. Huang, and Z. Niu, "Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks", IEEE Wireless Communications, major revision, 2022. (SCI Q1)
 9. **X. Li**, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong, “Integrated Sensing, communication, and computation Over-the-Air: MIMO Beamforming Design”, IEEE Transactions on Wireless Communications, major revision, 2022. (SCI Q1)
-10. **X. Li**, Z. Zhou, and Yi Gong, “Beamforming Design for Integrated Sensing, Communication and Computation”，submitted to ZTE Communications. (invited paper)
+10. **X. Li**, Z. Zhou, and Yi Gong, “Beamforming Design for Integrated Sensing, Communication and Computation”，ZTE Communications, under review, 2022. (invited paper)
 11. Z. Lin, **X. Li**, V. Lau, Y. Gong and K. Huang, “Deploying Federated Learning in Large-Scale Cellular Networks: Spatial Convergence Analysis”, IEEE Transactions on Wireless Communications, vol. 21, no. 3, pp. 1542-1556, March 2022. (SCI Q1)
 12. D. Wen, **X. Li**, Q. Zeng, J. Ren, K. Huang, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning”, Journal of Communications and Information Networks, vol. 4, no. 4, pp. 1-14, Dec. 2019. (invited paper)
 13. S. Wang, **X. Li**, and Y. Gong, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, IEEE Transactions on Communications, under review, 2021. (SCI Q1)
