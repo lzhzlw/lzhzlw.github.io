@@ -38,7 +38,7 @@ author_profile: true
 
 # Patents
 1.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “A Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, US Patent No.: 10,211,957 B2, 2019.02
-2.	Y. Gong, **X. Li**, Z. Han, “Method, Network Equipment, Terminal, System and Storage Medium for Data Labeling”, PCT，PCT/CN2020/120420，2020.
+2.	Y. Gong, **X. Li**, Z. Han, “Method, Network Equipment, Terminal, System and Storage Medium for Data Labeling”, PCT, PCT/CN2020/120420, 2020.
 3.	Y. Gong, Z. Han, **X. Li**, Chenghao Zheng, “Controlling Method and Device”, China Invention Patent No.: ZL201610654131.0, 2019.04.
 4.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, China Invention Patent No.: ZL201510432211.7, 2018.06.
 5.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A software application for intelligent socket”, China Invention Patent No.: ZL201510252739.6, 2017.06.
