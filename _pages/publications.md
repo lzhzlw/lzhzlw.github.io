@@ -24,7 +24,7 @@ author_profile: true
 13. S. Wang, **X. Li**, and Y. Gong*, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, IEEE Transactions on Communications, under review, 2021. (JCR Q1)
 
 # Conference Papers
-1. X. Li, Z. Han, Z. Zhou, Q. Zhang, and Y. Gong, “Wirelessly Powered Integrated Sensing and Communication”, in Proc. 1st ACM MobiCom Workshop on Integrated Sensing and Communication Systems (ISACom), Sydney, Australia, 2022.
+1. **X. Li**, Z. Han, Z. Zhou, Q. Zhang, and Y. Gong, “Wirelessly Powered Integrated Sensing and Communication”, in Proc. 1st ACM MobiCom Workshop on Integrated Sensing and Communication Systems (ISACom), Sydney, Australia, 2022.
 2. **X. Li**, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong, “Integrated Sensing and Over-the-Air Computation: Dual-Functional MIMO Beamforming Design”, in Proc. 1st International Conference on 6G Networking, Paris, France, 2022. (invited paper)
 3. **X. Li**, S. Wang, G. Zhu, Z. Zhou, K. Huang, and Y. Gong, “Learning and Energy Efficient Edge Intelligence: Data Partition and Rate Control”, in Proc. IEEE International Conference on Communications, Seoul, Korea, 2022.
 4. **X. Li**, G. Zhu, K. Han, K. Huang, and Y. Gong, “Joint Annotator Clustering and Power Allocation for Energy Efficient Wireless Crowd Labelling”, in Proc. IEEE Global Communications Conference, Madrid, Spain, 2021.
