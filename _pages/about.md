@@ -23,10 +23,10 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
 <!-- <a href='https://scholar.google.com/citations?user=MyorWTwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # Research Interests
+- Crowd intelligence
+- Edge learning
 - Integrated sensing, communication, and computation
-- Edge computing and learning
 - Over-the-air computation
-- Crowd sensing and labelling
 - Wirelessly powered communications
 
 # Educations
@@ -43,9 +43,12 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
   - Supervisor: Prof. Yi Gong
  
 # Honors and Awards
+- Forbes 30 under 30 (Top 30 in China), 2022.
+- Top 50 in Great Bay Area High Value Patent Competition (Top 50 in 2000+), 2022.
 - Guangdong Overseas Youth Talent, 2021.
 - Shenzhen Overseas High-caliber Personnel, 2021.
-- SUSTech Presidential Distinguished Research Fellow, 2021.
+- Presidential Distinguished Research Fellow of SUSTech (15 persons per year), 2020.
+- HKU Postgraduate Scholarship, 2016-2020.
 - First prize at the PhD Forum of Shenzhen, Hong Kong, Macao and Taiwan, 2017.
 - SUSTech Outstanding graduation thesis of Bachelor degree, 2016.
 - SUSTech Outstanding graduate of Bachelor degree, 2016.
