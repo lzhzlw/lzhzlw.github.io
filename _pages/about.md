@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # About me
-Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 2020, and the B.S. degree from Southern University of Science and Technology (SUSTech) in 2016. Currently, he is a Presidential Distinguished Research Fellow in SUSTech. He has been recognized as Overseas Youth Talent in Guangdong and Overseas High-caliber Personnel in Shenzhen. His research interests include integrated sensing and communication, edge learning, mobile crowd sensing, wireless crowd labeling, over-the-air computation, and wireless power transfer.
+Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
+degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Postdoc Fellow at SUSTech. He is currently a Research Scientist with the Shenzhen Research Institute of Big Data. His research interests include edge learning, integrated sensing and communication, crowd intelligence, over-the-air computation, and wirelessly powered communication.
 <!-- 这一行是总citations的数据 -->
 <!-- <a href='https://scholar.google.com/citations?user=MyorWTwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
@@ -29,9 +30,13 @@ Dr. Xiaoyang Li received the Ph.D. degree from the University of Hong Kong in 20
 - Over-the-air computation
 - Wirelessly powered communications
 
-# Educations
-- *2020.10 to present*, Southern University of Science and Technology (SUSTech)
+# Working experience
+- *2022.12 to now*, Shenzhen Research Institute of Big Data
   - Presidential Distinguished Research Fellow
+  
+# Educations
+- *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
+  - Research Scientist
 - *2016.09 to 2020.12*, The University of Hong Kong
   - PhD degree
   - Supervisor: Prof. Kaibin Huang
