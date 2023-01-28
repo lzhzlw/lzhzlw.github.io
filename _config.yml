@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Xiaoyang Li"
   avatar           : "/images/portrait.jpg"
-  bio              : "Southern University of Science and Technology (SUSTech)"
+  bio              : "Shenzhen Research Institute of Big Data (SRIBD)"
   location         : "Shenzhen, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=MyorWTwAAAAJ"
-  email            : "lixy@sustech.edu.cn"
+  email            : "lixiaoyang@sribd.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
