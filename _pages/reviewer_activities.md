@@ -6,12 +6,13 @@ author_profile: true
 ---
 
 # Reviewer Activities
+- IEEE Networks
+- IEEE Wireless Communications
 - IEEE Journal of Selected Area of Communications
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Communications
 - IEEE Transactions on Vehicular Technology
 - IEEE Internet of Things Journal
-- IEEE Network Magazine
 - IEEE Transactions on Green Communications and Networking
 - IEEE Transactions on Dependable and Secure Computing
 - IEEE Access
@@ -25,3 +26,4 @@ author_profile: true
 - IEEE International Conference on Wireless Communications and Signal Processing
 - IEEE International Symposium on Personal, Indoor and Mobile Radio Communications
 - IEEE International Conference on Communications in China
+- IEEE Vehicular Technology Conference
