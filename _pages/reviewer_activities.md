@@ -6,10 +6,11 @@ author_profile: true
 ---
 
 # Reviewer Activities
-- IEEE Networks
+- IEEE Network
 - IEEE Wireless Communications
 - IEEE Journal of Selected Area of Communications
 - IEEE Transactions on Wireless Communications
+- IEEE Transactions on Mobile Computing
 - IEEE Transactions on Communications
 - IEEE Transactions on Vehicular Technology
 - IEEE Internet of Things Journal
