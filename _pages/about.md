@@ -31,7 +31,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 - Wirelessly powered communications
 
 # Working experience
-- *2022.12 to now*, Shenzhen Research Institute of Big Data
+- *2022.12 to now*, Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen)
   - Research Scientist/Associate Research Fellow
   
 # Educations
