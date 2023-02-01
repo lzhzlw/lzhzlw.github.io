@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
-degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Postdoc Fellow at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen). His research interests include edge learning, integrated sensing and communication, crowd intelligence, over-the-air computation, and wirelessly powered communication.
+degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Postdoc at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen). His research interests include edge learning, integrated sensing and communication, crowd intelligence, over-the-air computation, and wirelessly powered communication.
 <!-- 这一行是总citations的数据 -->
 <!-- <a href='https://scholar.google.com/citations?user=MyorWTwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
@@ -33,10 +33,10 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 # Working experience
 - *2022.12 to now*, Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen)
   - Research Scientist/Associate Research Fellow
+- *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
+  - Presidential Distinguished Postdoc
   
 # Educations
-- *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
-  - Presidential Distinguished Research Fellow
 - *2016.09 to 2020.12*, The University of Hong Kong
   - PhD degree
   - Supervisor: Prof. Kaibin Huang
@@ -52,7 +52,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 - Top 50 in Great Bay Area High Value Patent Competition (Top 50 in 2000+), 2022.
 - Guangdong Overseas Youth Talent, 2021.
 - Shenzhen Overseas High-caliber Personnel, 2021.
-- Presidential Distinguished Research Fellow of SUSTech (15 persons per year), 2020.
+- Presidential Distinguished Postdoc of SUSTech (15 persons per year), 2020.
 - HKU Postgraduate Scholarship, 2016-2020.
 - First prize at the PhD Forum of Shenzhen, Hong Kong, Macao and Taiwan, 2017.
 - SUSTech Outstanding graduation thesis of Bachelor degree, 2016.
