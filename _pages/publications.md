@@ -12,7 +12,7 @@ author_profile: true
 1. **X. Li**, Y. Gong*, K. Huang, and Z. Niu, "Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks", accepted by IEEE Wireless Communications, 2023. (JCR Q1)
 2. **X. Li**, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong*, “Integrated Sensing, communication, and computation Over-the-Air: MIMO Beamforming Design”, IEEE Transactions on Wireless Communications, early access, 2023. (JCR Q1)
 3. **X. Li**, G. Zhu, K. Shen, K. Han, K. Huang, and Y. Gong*, “Energy Efficient Wireless Crowd Labelling: Joint Annotator Clustering and Power Allocation”, IEEE Transactions on Wireless Communications, early access, 2022. (JCR Q1)
-4. Z. Zhou, **X. Li***, C. You, K. Huang, and Y. Gong*, “Joint Sensing and Communication Rates Control for Energy Efficient Mobile Crowd Sensing”, IEEE Transactions on Wireless Communications, early access, 2022. (JCR Q1, corresponding author)
+4. Z. Zhou, **X. Li***, C. You, K. Huang, and Y. Gong*, “Joint Sensing and Communication Rates Control for Energy Efficient Mobile Crowd Sensing”, IEEE Transactions on Wireless Communications, vol. 22, no. 2, pp. 1314-1327, 2023. (JCR Q1, corresponding author)
 5. **X. Li**, S. Wang, G. Zhu, Z. Zhou, K. Huang, and Y. Gong*, “Data Partition and Rate Control for Learning and Energy Efficient Edge Intelligence”, IEEE Transactions on Wireless Communications, vol. 21, no. 11, pp. 9127-9142, Nov. 2022. (JCR Q1)
 6. **X. Li**, Z. Zhou, and Yi Gong*, “Beamforming Design for Integrated Sensing, Communication and Computation”，ZTE Communications, vol. 28, no. 5, pp. 23-28, Oct. 2022. (invited paper, cover paper)
 7. **X. Li**, G. Zhu, K. Shen, W. Yu, Y. Gong*, and K. Huang*, “Joint Annotator-and-Spectrum Allocation in Wireless Networks for Crowd Labelling”, IEEE Transactions on Wireless Communications, vol. 19, no. 9, pp. 6116-6128, Sep. 2020. (JCR Q1)
@@ -41,14 +41,15 @@ author_profile: true
 13. **X. Li**, Z. Han, Y. Gong, “Adaptive multi-band resource allocation for a two-user simultaneous information and power transmission system,” in Proc. International Conference on Wireless Communications and Signal Processing, Nanjing, China, 2017.
 
 # Patents
-1.	Y. Gong, **X. Li**, Z. Han, “Signal transmission systems, signal transmission methods, devices and storage media”, China Invention, Application No.: 2022113304372, 2022.10.
-2.	Y. Gong, **X. Li**, Z. Han, “Centralized wireless communication system, wireless communication method, apparatus and storage medium”, China Invention, Application No.: 2022113399495, 2022.10.
-3.	Y. Gong, Z. Han, **X. Li**, “Distributed wireless communication systems, wireless communication methods, devices and storage media”, China Invention, Application No.: 2022113304368, 2022.10.
-4.	Y. Gong, Z. Han, **X. Li**, “Signal fusion transceiver method and device, system, apparatus, storage medium”, China Invention, Application No.: 2022113304404, 2022.10.
-5.	G. Zhu, X. Cao, **X. Li**, “Federated edge learning based image classification method and related devices”, China Invention, Application No.: 2022112136990, 2022.09.
-6.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “A Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, US Patent No.: 10,211,957 B2, 2019.02
-7.	Y. Gong, **X. Li**, Z. Han, “Method, Network Equipment, Terminal, System and Storage Medium for Data Labeling”, PCT, PCT/CN2020/120420, 2020.
-8.	Y. Gong, Z. Han, **X. Li**, Chenghao Zheng, “Controlling Method and Device”, China Invention Patent No.: ZL201610654131.0, 2019.04.
-9.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, China Invention Patent No.: ZL201510432211.7, 2018.06.
-10.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A software application for intelligent socket”, China Invention Patent No.: ZL201510252739.6, 2017.06.
-11.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A circuit design for intelligent socket”, China Utility Model Patent No.: ZL201520320131.8, 2015.10.
+1.	X. Li, G. Zhu, H. Li, **X. Li**, “A wireless channel CSI acquisition method, system and computer readable storage medium”, China Invention, Application No.: 2023100020659, 2023.01.
+2.	Y. Gong, **X. Li**, Z. Han, “Signal transmission systems, signal transmission methods, devices and storage media”, China Invention, Application No.: 2022113304372, 2022.10.
+3.	Y. Gong, **X. Li**, Z. Han, “Centralized wireless communication system, wireless communication method, apparatus and storage medium”, China Invention, Application No.: 2022113399495, 2022.10.
+4.	Y. Gong, Z. Han, **X. Li**, “Distributed wireless communication systems, wireless communication methods, devices and storage media”, China Invention, Application No.: 2022113304368, 2022.10.
+5.	Y. Gong, Z. Han, **X. Li**, “Signal fusion transceiver method and device, system, apparatus, storage medium”, China Invention, Application No.: 2022113304404, 2022.10.
+6.	G. Zhu, X. Cao, **X. Li**, “Federated edge learning based image classification method and related devices”, China Invention, Application No.: 2022112136990, 2022.09.
+7.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “A Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, US Patent No.: 10,211,957 B2, 2019.02
+8.	Y. Gong, **X. Li**, Z. Han, “Method, Network Equipment, Terminal, System and Storage Medium for Data Labeling”, PCT, PCT/CN2020/120420, 2020.
+9.	Y. Gong, Z. Han, **X. Li**, Chenghao Zheng, “Controlling Method and Device”, China Invention Patent No.: ZL201610654131.0, 2019.04.
+10.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, China Invention Patent No.: ZL201510432211.7, 2018.06.
+11.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A software application for intelligent socket”, China Invention Patent No.: ZL201510252739.6, 2017.06.
+12.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A circuit design for intelligent socket”, China Utility Model Patent No.: ZL201520320131.8, 2015.10.
