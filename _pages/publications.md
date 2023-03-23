@@ -9,9 +9,9 @@ author_profile: true
 ---
 
 # Journal Papers
-1. **X. Li**, Y. Gong*, K. Huang, and Z. Niu, "Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks", accepted by IEEE Wireless Communications, 2023. (JCR Q1)
+1. **X. Li**, Y. Gong*, K. Huang, and Z. Niu, "Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks", IEEE Wireless Communications, vol. 30, no. 1, pp. 32-38, Feb. 2023. (JCR Q1)
 2. **X. Li**, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong*, “Integrated Sensing, communication, and computation Over-the-Air: MIMO Beamforming Design”, IEEE Transactions on Wireless Communications, early access, 2023. (JCR Q1)
-3. **X. Li**, G. Zhu, K. Shen, K. Han, K. Huang, and Y. Gong*, “Energy Efficient Wireless Crowd Labelling: Joint Annotator Clustering and Power Allocation”, IEEE Transactions on Wireless Communications, early access, 2022. (JCR Q1)
+3. **X. Li**, G. Zhu, K. Shen, K. Han, K. Huang, and Y. Gong*, “Energy Efficient Wireless Crowd Labelling: Joint Annotator Clustering and Power Allocation”, IEEE Transactions on Wireless Communications, vol. 22, no. 3, pp. 2022-2035, March 2023. (JCR Q1)
 4. Z. Zhou, **X. Li***, C. You, K. Huang, and Y. Gong*, “Joint Sensing and Communication Rates Control for Energy Efficient Mobile Crowd Sensing”, IEEE Transactions on Wireless Communications, vol. 22, no. 2, pp. 1314-1327, 2023. (JCR Q1, corresponding author)
 5. **X. Li**, S. Wang, G. Zhu, Z. Zhou, K. Huang, and Y. Gong*, “Data Partition and Rate Control for Learning and Energy Efficient Edge Intelligence”, IEEE Transactions on Wireless Communications, vol. 21, no. 11, pp. 9127-9142, Nov. 2022. (JCR Q1)
 6. **X. Li**, Z. Zhou, and Yi Gong*, “Beamforming Design for Integrated Sensing, Communication and Computation”，ZTE Communications, vol. 28, no. 5, pp. 23-28, Oct. 2022. (invited paper, cover paper)
@@ -23,7 +23,7 @@ author_profile: true
 12. D. Wen, **X. Li**, Q. Zeng, J. Ren, K. Huang*, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning”, Journal of Communications and Information Networks, vol. 4, no. 4, pp. 1-14, Dec. 2019. (invited paper)
 13. S. Wang, **X. Li**, and Y. Gong*, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, submitted to IEEE for possible publication, 2022. (JCR Q1)
 14. S. Wang, **X. Li**, and Y. Gong*, “Beampattern Design for Integrated Sensing, Communication and Computation Over-the-Air”, submitted to IEEE for possible publication, 2022. (JCR Q1)
-15. Z. Han, **X. Li**, Z. Zhou, Y. Gong, Q. Zhang*, “Wireless Communication and Control Co-Design for System Identification”, submitted to IEEE for possible publication, 2022.
+15. Z. Han, **X. Li**, Z. Zhou, K. Huang, Y. Gong, Q. Zhang*, “Wireless Communication and Control Co-Design for System Identification”, submitted to IEEE for possible publication, 2022.
 
 # Conference Papers
 1. **X. Li**, X. Yi, Z. Zhou, K. Han, Z. Han, and Y. Gong, “Multi-User Beamforming Design for Integrating Sensing, Communications, and Power Transfer”, in Proc. IEEE Wireless Communications and Networking Conference, Glasgow, UK, 2023.
