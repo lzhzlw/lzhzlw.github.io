@@ -19,7 +19,7 @@ redirect_from:
 
 # About me
 Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
-degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Postdoc at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen). His research interests include edge learning, integrated sensing and communication, crowd intelligence, over-the-air computation, and wirelessly powered communication.
+degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen). His research interests include edge learning, integrated sensing and communication, crowd intelligence, over-the-air computation, and wirelessly powered communication.
 <!-- 这一行是总citations的数据 -->
 <!-- <a href='https://scholar.google.com/citations?user=MyorWTwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
@@ -32,9 +32,9 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 
 # Working experience
 - *2022.12 to now*, Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen)
-  - Research Scientist/Associate Research Fellow
+  - Research Scientist/ Research Associate
 - *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
-  - Presidential Distinguished Postdoc
+  - Presidential Distinguished Research Fellow
   
 # Educations
 - *2016.09 to 2020.12*, The University of Hong Kong
@@ -49,6 +49,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
  
 # Honors and Awards
 - Forbes 30 under 30 (Top 30 in China), 2022.
+- IEEE Wireless Communications Letters Exemplary Reviewer, 2022.
 - Top 50 in Great Bay Area High Value Patent Competition (Top 50 in 2000+), 2022.
 - Guangdong Overseas Youth Talent, 2021.
 - Shenzhen Overseas High-caliber Personnel, 2021.
@@ -62,6 +63,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 # Projects
 - National Natural Science Foundation of China (NSFC), “Technologies of Mobile Crowd Sensing and Communication for Sensor Networks”, Grant No.: 29857528, ¥300k, PI, 2022-2024.
 - Shenzhen Natural Science Foundation General Program, “Research on Technologies of Integrated Sensing, Communication, and Computation for Intelligent Internet of Things”, Grant No.: JCYJ20220530113017039, ¥300k, PI, 2023-2025.
+- Shenzhen Postdoctoral Research Fund, “Research on Wireless Integrated Sensing and Communications”, ¥300k, PI, 2023-2025.
 - China Postdoctoral Science Foundation, “Research on Key Technologies of Wireless Crowd Sensing for Sensor Networks”, Grant No.: 2021M691452, ¥80k, PI, 2020-2022.
 - China Academy of Information and Communication Technology (CAICT) Collaboration Project, “Research on theory and algorithm of multi-modal wireless network location estimation and tracking for 6G”, ¥540k, PI, 2022-2023.
 - NSFC, “Research on Key Technologies for Wireless Crowd Labelling”, Grant No.: 62071212, ¥550k, Core Member, 2021-2024.
