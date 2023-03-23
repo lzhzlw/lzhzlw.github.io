@@ -41,15 +41,16 @@ author_profile: true
 13. **X. Li**, Z. Han, Y. Gong, “Adaptive multi-band resource allocation for a two-user simultaneous information and power transmission system,” in Proc. International Conference on Wireless Communications and Signal Processing, Nanjing, China, 2017.
 
 # Patents
-1.	X. Li, G. Zhu, H. Li, **X. Li**, “A wireless channel CSI acquisition method, system and computer readable storage medium”, China Invention, Application No.: 2023100020659, 2023.01.
-2.	Y. Gong, **X. Li**, Z. Han, “Signal transmission systems, signal transmission methods, devices and storage media”, China Invention, Application No.: 2022113304372, 2022.10.
-3.	Y. Gong, **X. Li**, Z. Han, “Centralized wireless communication system, wireless communication method, apparatus and storage medium”, China Invention, Application No.: 2022113399495, 2022.10.
-4.	Y. Gong, Z. Han, **X. Li**, “Distributed wireless communication systems, wireless communication methods, devices and storage media”, China Invention, Application No.: 2022113304368, 2022.10.
-5.	Y. Gong, Z. Han, **X. Li**, “Signal fusion transceiver method and device, system, apparatus, storage medium”, China Invention, Application No.: 2022113304404, 2022.10.
-6.	G. Zhu, X. Cao, **X. Li**, “Federated edge learning based image classification method and related devices”, China Invention, Application No.: 2022112136990, 2022.09.
-7.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “A Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, US Patent No.: 10,211,957 B2, 2019.02
-8.	Y. Gong, **X. Li**, Z. Han, “Method, Network Equipment, Terminal, System and Storage Medium for Data Labeling”, PCT, PCT/CN2020/120420, 2020.
-9.	Y. Gong, Z. Han, **X. Li**, Chenghao Zheng, “Controlling Method and Device”, China Invention Patent No.: ZL201610654131.0, 2019.04.
-10.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, China Invention Patent No.: ZL201510432211.7, 2018.06.
-11.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A software application for intelligent socket”, China Invention Patent No.: ZL201510252739.6, 2017.06.
-12.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A circuit design for intelligent socket”, China Utility Model Patent No.: ZL201520320131.8, 2015.10.
+1.	S. Wang, **X. Li**, F. Liu, and Y. Gong, “Integrated Sensing, Communication, and Computation Over-the-Air: Beampattern Design”, in Proc. IEEE International Conference on Communications, 2023.
+2.	X. Li, G. Zhu, H. Li, **X. Li**, “A wireless channel CSI acquisition method, system and computer readable storage medium”, China Invention, Application No.: 2023100020659, 2023.01.
+3.	Y. Gong, **X. Li**, Z. Han, “Signal transmission systems, signal transmission methods, devices and storage media”, China Invention, Application No.: 2022113304372, 2022.10.
+4.	Y. Gong, **X. Li**, Z. Han, “Centralized wireless communication system, wireless communication method, apparatus and storage medium”, China Invention, Application No.: 2022113399495, 2022.10.
+5.	Y. Gong, Z. Han, **X. Li**, “Distributed wireless communication systems, wireless communication methods, devices and storage media”, China Invention, Application No.: 2022113304368, 2022.10.
+6.	Y. Gong, Z. Han, **X. Li**, “Signal fusion transceiver method and device, system, apparatus, storage medium”, China Invention, Application No.: 2022113304404, 2022.10.
+7.	G. Zhu, X. Cao, **X. Li**, “Federated edge learning based image classification method and related devices”, China Invention, Application No.: 2022112136990, 2022.09.
+8.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “A Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, US Patent No.: 10,211,957 B2, 2019.02
+9.	Y. Gong, **X. Li**, Z. Han, “Method, Network Equipment, Terminal, System and Storage Medium for Data Labeling”, PCT, PCT/CN2020/120420, 2020.
+10.	Y. Gong, Z. Han, **X. Li**, Chenghao Zheng, “Controlling Method and Device”, China Invention Patent No.: ZL201610654131.0, 2019.04.
+11.	Y. Gong, Z. Han, Y. Zhang, **X. Li**, M. Li, “Method and System for Wireless Simultaneous Transmission with Protection of Interval Signal”, China Invention Patent No.: ZL201510432211.7, 2018.06.
+12.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A software application for intelligent socket”, China Invention Patent No.: ZL201510252739.6, 2017.06.
+13.	L. Jian, J. Wei, **X. Li**, B. Dong, G. Peng, S. Min, “A circuit design for intelligent socket”, China Utility Model Patent No.: ZL201520320131.8, 2015.10.
