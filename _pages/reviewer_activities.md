@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Reviewer Activities
-- - IEEE Wireless Communications Letters (Exemplary Reviewer)
+- IEEE Wireless Communications Letters (Exemplary Reviewer)
 - IEEE Network
 - IEEE Wireless Communications
 - IEEE Journal of Selected Area of Communications
