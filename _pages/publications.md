@@ -22,8 +22,8 @@ author_profile: true
 11. **X. Li**, C. You, S. Andreev, Y. Gong, and K. Huang*, “Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression and Transmission”, IEEE Journal on Selected Areas in Communications, vol. 37, no. 2, pp. 391-406, Feb. 2019. (JCR Q1)
 12. Z. Lin, **X. Li**, V. Lau, Y. Gong* and K. Huang*, “Deploying Federated Learning in Large-Scale Cellular Networks: Spatial Convergence Analysis”, IEEE Transactions on Wireless Communications, vol. 21, no. 3, pp. 1542-1556, March 2022. (JCR Q1)
 13. D. Wen, **X. Li**, Q. Zeng, J. Ren, K. Huang*, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning”, Journal of Communications and Information Networks, vol. 4, no. 4, pp. 1-14, Dec. 2019. (invited paper)
-14. S. Wang, **X. Li**, and Y. Gong*, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, submitted to IEEE for possible publication, 2022. (JCR Q1)
-15. S. Wang, **X. Li**, and Y. Gong*, “Beampattern Design for Integrated Sensing, Communication and Computation Over-the-Air”, submitted to IEEE for possible publication, 2022. (JCR Q1)
+14. S. Wang, **X. Li**, and Y. Gong*, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, submitted to IEEE for possible publication, 2022. 
+15. S. Wang, **X. Li**, and Y. Gong*, “Beampattern Design for Integrated Sensing, Communication and Computation Over-the-Air”, submitted to IEEE for possible publication, 2022. 
 16. Z. Han, **X. Li**, Z. Zhou, K. Huang, Y. Gong, Q. Zhang*, “Wireless Communication and Control Co-Design for System Identification”, submitted to IEEE for possible publication, 2022.
 
 # Conference Papers
