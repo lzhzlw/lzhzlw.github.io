@@ -28,6 +28,7 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 - Edge learning
 - Integrated sensing-communication-computation
 - Over-the-air computation
+- Reconfigurable Intelligent Surface
 - Wirelessly powered communications
 
 # Working experience
