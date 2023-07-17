@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 # Session Chair
+- IEEE International Conference on Communications (2023)
+- IEEE International Conference on Acoustics, Speech, and Signal Processing (2023)
+- International Workshop on Learning and Information Theory (2023)
 - IEEE International Conference on Communications in China (2022)
 - International Workshop on Mathematical Issues in Information Sciences (2022)
 
