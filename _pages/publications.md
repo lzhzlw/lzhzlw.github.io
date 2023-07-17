@@ -27,9 +27,9 @@ author_profile: true
 16. Z. Han, **X. Li**, Z. Zhou, K. Huang, Y. Gong, Q. Zhang*, “Wireless Communication and Control Co-Design for System Identification”, submitted to IEEE for possible publication, 2022.
 
 # Conference Papers
-1.  Y. Jiang, Z. Zhou, **X. Li**, Y. Gong, “Beamforming Design for RIS-Aided THz Wideband Communication Systems”, in Proc. IEEE International Workshop on Signal Processing Advances in Wireless Communications, 2023.
-2.  Z. Han, **X. Li**, Z. Zhou, G. Zhu, Y. Gong, Q. Zhang, “Control-Aware Wireless Communication Design for Dynamical System Identification”, in Proc. International Conference on Ubiquitous Communications, 2023. (invited paper)
-3.	S. Wang, **X. Li**, F. Liu, and Y. Gong, “Integrated Sensing, Communication, and Computation Over-the-Air: Beampattern Design”, in Proc. IEEE International Conference on Communications, 2023.
+1.  Y. Jiang, Z. Zhou, **X. Li**, Y. Gong, “Beamforming Design for RIS-Aided THz Wideband Communication Systems”, in Proc. IEEE International Workshop on Signal Processing Advances in Wireless Communications, Shanghai, China, 2023.
+2.  Z. Han, **X. Li**, Z. Zhou, G. Zhu, Y. Gong, Q. Zhang, “Control-Aware Wireless Communication Design for Dynamical System Identification”, in Proc. International Conference on Ubiquitous Communications, Xian, China, 2023. (invited paper)
+3.	S. Wang, **X. Li**, F. Liu, and Y. Gong, “Integrated Sensing, Communication, and Computation Over-the-Air: Beampattern Design”, in Proc. IEEE International Conference on Communications, Roma, Italy, 2023.
 4.	**X. Li**, X. Yi, Z. Zhou, K. Han, Z. Han, and Y. Gong, “Multi-User Beamforming Design for Integrating Sensing, Communications, and Power Transfer”, in Proc. IEEE Wireless Communications and Networking Conference, Glasgow, UK, 2023.
 5. X. Wang, J. Wang, H. Li, **X. Li**, C. Shen, and G. Zhu, “UKFWiTr: A Single-link Indoor Tracking Method Based on WiFi CSI”, in Proc. IEEE Wireless Communications and Networking Conference, Glasgow, UK, 2023.
 6. **X. Li**, Z. Han, Z. Zhou, Q. Zhang, and Y. Gong, “Wirelessly Powered Integrated Sensing and Communication”, in Proc. 1st ACM MobiCom Workshop on Integrated Sensing and Communication Systems (ISACom), Sydney, Australia, 2022.
