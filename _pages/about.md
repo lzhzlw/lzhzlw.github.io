@@ -19,14 +19,14 @@ redirect_from:
 
 # About me
 Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
-degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen). His research interests include edge learning, integrated sensing and communication, crowd intelligence, over-the-air computation, and wirelessly powered communication.
+degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen). His research interests include crowd intelligence, edge learning, integrated sensing-communication-computation, over-the-air computation, and wirelessly powered communication.
 <!-- 这一行是总citations的数据 -->
-<!-- <a href='https://scholar.google.com/citations?user=MyorWTwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+<!-- <a href='https://scholar.google.es/citations?user=pw0f1aIAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
 # Research Interests
 - Crowd intelligence
 - Edge learning
-- Integrated sensing, communication, and computation
+- Integrated sensing-communication-computation
 - Over-the-air computation
 - Wirelessly powered communications
 
@@ -68,9 +68,9 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 - China Academy of Information and Communication Technology (CAICT) Collaboration Project, “Research on theory and algorithm of multi-modal wireless network location estimation and tracking for 6G”, ¥540k, PI, 2022-2023.
 - NSFC, “Research on Key Technologies for Wireless Crowd Labelling”, Grant No.: 62071212, ¥550k, Core Member, 2021-2024.
 
-# Publications
-- X. Li, G. Zhu, Y. Gong, and K. Huang, “Wirelessly Powered Data Aggregation for IoT via Over-the-Air Function Computation: Beamforming and Power Control”, IEEE Transactions on Wireless Communications, vol. 18, no. 7, pp. 3437-3452, July 2019. (SCI Q1) <span class='show_paper_citations' data='MyorWTwAAAAJ:d1gkVwhDpl0C'></span>
-- X. Li, C. You, S. Andreev, Y. Gong, and K. Huang, “Wirelessly Powered Crowd Sensing: Joint Power Transfer, Sensing, Compression and Transmission”, IEEE Journal on Selected Areas in Communications, vol. 37, no. 2, pp. 391-406, Feb. 2019. (SCI Q1) <span class='show_paper_citations' data='MyorWTwAAAAJ:u5HHmVD_uO8C'></span>
-- X. Li, G. Zhu, K. Shen, W. Yu, Y. Gong, and K. Huang, “Joint Annotator-and-Spectrum Allocation in Wireless Networks for Crowd Labelling”, IEEE Transactions on Wireless Communications, vol. 19, no. 9, pp. 6116-6128, Sep. 2020. (SCI Q1) <span class='show_paper_citations' data='MyorWTwAAAAJ:IjCSPb-OGe4C'></span>
+# Latest Publications
+- X. Li, Y. Gong*, K. Huang, and Z. Niu, “Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks”, IEEE Wireless Communications, vol. 30, no. 1, pp. 32-38, Feb. 2023.
+- X. Li, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong*, “Integrated Sensing, communication, and computation Over-the-Air: MIMO Beamforming Design”, IEEE Transactions on Wireless Communications, early access, 2023.
+- X. Li, G. Zhu, K. Shen, K. Han, K. Huang, and Y. Gong*, “Energy Efficient Wireless Crowd Labelling: Joint Annotator Clustering and Power Control”, IEEE Transactions on Wireless Communications, vol. 22, no. 3, pp. 2022-2035, March 2023.
 
 [Full list of publications.](/publications/)
