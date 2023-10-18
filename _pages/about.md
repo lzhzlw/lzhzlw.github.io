@@ -66,9 +66,9 @@ degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was
 - Shenzhen Postdoctoral Research Fund, “Research on Wireless Integrated Sensing and Communications”, ¥300k, PI, 2023-2025.
 - China Postdoctoral Science Foundation, “Research on Key Technologies of Wireless Crowd Sensing for Sensor Networks”, Grant No.: 2021M691452, ¥80k, PI, 2020-2022.
 - China Academy of Information and Communication Technology (CAICT) Collaboration Project, “Research on theory and algorithm of multi-modal wireless network location estimation and tracking for 6G”, ¥540k, PI, 2022-2023.
-- Shenzhen Research Institute of Big Data Project, J00220230004, “Research on Technologies of Integrated Sensing, Communication, and Computation for Intelligent Learning”, ¥100k, PI, 2023-2024.
+- Shenzhen Research Institute of Big Data (SRIBD) Project, J00220230004, “Research on Technologies of Integrated Sensing, Communication, and Computation for Intelligent Learning”, ¥100k, PI, 2023-2024.
 - NSFC, “Research on Key Technologies for Wireless Crowd Labelling”, Grant No.: 62071212, ¥550k, Core Member, 2021-2024.
-- Shenzhen Research Institute of Big Data Project, J00120230001, “Indoor Human Activity Recognition based on WiFi Signals”, ¥660k, Core Member, 2023-2024.
+- SRIBD Project, J00120230001, “Indoor Human Activity Recognition based on WiFi Signals”, ¥660k, Core Member, 2023-2024.
 
 # Latest Publications
 - X. Li, Y. Gong*, K. Huang, and Z. Niu, “Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks”, IEEE Wireless Communications, vol. 30, no. 1, pp. 32-38, Feb. 2023.
