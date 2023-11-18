@@ -26,7 +26,10 @@ author_profile: true
 15. S. Wang, **X. Li**, and Y. Gong*, “Energy Efficient Task Offloading for Cloud-Aided Mobile Edge Computing Networks”, IEEE Transactions on Green Communications and Networking, early access, 2023.
 16. Z. Lin, **X. Li**, V. Lau, Y. Gong* and K. Huang*, “Deploying Federated Learning in Large-Scale Cellular Networks: Spatial Convergence Analysis”, IEEE Transactions on Wireless Communications, vol. 21, no. 3, pp. 1542-1556, March 2022. (JCR Q1)
 17. D. Wen, **X. Li**, Q. Zeng, J. Ren, K. Huang*, “An Overview of Data-Importance Aware Radio Resource Management for Edge Machine Learning”, Journal of Communications and Information Networks, vol. 4, no. 4, pp. 1-14, Dec. 2019. (invited paper)
-
+18. Y Jiang, X Li*, G Zhu, H Li, J Deng, and Q Shi, “6G Non-Terrestrial Networks Enabled Low-Altitude Economy: Opportunities and Challenges”, submitted to IEEE Network, 2023.
+19. X Li, Z Han, G Zhu, Y Shi, J Xu, Q Zhang, K Huang, and KB Letaief, “Integrating Sensing, Communication, and Power Transfer: From Theory to Practice”, submitted to IEEE Communications Magazine, 2023.
+20. Z Zhou, X Li*, G Zhu, J Xu, K Huang, S Cui, “Integrating Sensing, Communication, and Power Transfer: Multiuser Beamforming Design”, submitted to IEEE Journal on Selected Areas in Communications, 2023.
+    
 # Conference Papers
 1.   F. Zhou, G. Zhu, **X. Li**, H. Li, and Q. Shi, “Towards Pervasive Sensing: A multimodal approach via CSI and RGB image modalities fusion”, in Proc. ACM MobiCom Workshop on Integrated Sensing and Communication Systems, Madrid, Spain, 2023.
 2.   Z. Cai, T. Chen, F. Zhou, Y. Cui, H. Li, **X. Li**, G. Zhu, and Q. Shi, “FallDeWideo: Vision-Aided Wireless Sensing Dataset for Fall Detection with Commodity Wi-Fi Devices”, in Proc. ACM MobiCom Workshop on Integrated Sensing and Communication Systems, Madrid, Spain, 2023.
