@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span> 
 
 # About me
 Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
