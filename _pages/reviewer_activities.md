@@ -9,6 +9,7 @@ author_profile: true
 - IEEE Wireless Communications Letters (Exemplary Reviewer)
 - IEEE Network
 - IEEE Wireless Communications
+- IEEE Vehicular Technology Magazine
 - IEEE Journal of Selected Area of Communications
 - IEEE Transactions on Wireless Communications
 - IEEE Transactions on Mobile Computing
