@@ -132,12 +132,15 @@ Supervisor: Prof. [Hong Zhang](https://hzy.sxu.edu.cn/szdw/js/6ac3b703134e4117a4
 
 <br>
 
-# 🏔️ Field Experiment Experience
-- *2022*, Soil sampling in Haibei area, northern Tibetan Plateau.
+# 🏔️ Field Experiment
+- **2022**, Soil sampling in Haibei area, northern Tibetan Plateau.
 
 <br>
 
-# 👐 Service and participation
+# 🤝 Service & participation
+- **2023**， Volunteer of geographic resources youth innovation forum, Youth innovation promotion association CAS
+- **2022-2023**, Member of postgraduate student union of Institute of Geographic Sciences and Natural Resources Research
+- **2015-2016**, Member of graduate student union of Shanxi University
 
 <br>
 
