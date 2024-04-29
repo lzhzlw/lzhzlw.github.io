@@ -6,30 +6,30 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Xiaoyang Li"
-description              : ""
-repository               : "Xiaoyang0118/xiaoyang0118.github.io"
+title                    : "Zhenhai Liu"
+description              : "PhD Student | Ecology"
+repository               : "lzhzlw/lzhzlw.github.io"
 google_scholar_stats_use_cdn : false
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
 
 # SEO Related
-google_site_verification :  vxrrKmhb7kVkwF2zKt9IY7iD2t_Prk0eVD96mWClzAA
-bing_site_verification   :  # get bing_site_verification from https://www.bing.com/webmasters/about
+google_site_verification :  google309aa402dd486084.html # get google_site_verification from https://search.google.com/search-console/about
+bing_site_verification   : 56D1B3DBCF345410DA9431AFE01788E7 # get bing_site_verification from https://www.bing.com/webmasters/about
 baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.baidu.com/login/index?u=/site/index
 
 # Site Author
 author:
-  name             : "Xiaoyang Li"
-  avatar           : "/images/portrait.jpg"
-  bio              : "Shenzhen Research Institute of Big Data (SRIBD)"
-  location         : "Shenzhen, China"
-  employer         :
+  name             : "Zhenhai Liu"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "University of Chinese Academy of Sciences"
+  location         : "Beijing, China"
+  employer         : #"University of Chinese Academy of Sciences"
   pubmed           : 
-  googlescholar    : "https://scholar.google.es/citations?user=pw0f1aIAAAAJ&hl"
-  email            : "lixiaoyang@sribd.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=uOj4SbgAAAAJ"
+  email            : "liuzhenhai5436@igsnrr.ac.cn"
+  researchgate     : "https://www.researchgate.net/profile/Zhenhai-Liu-4"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,15 +37,15 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "lzhzlw"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "lzhzlw"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0000-0003-1209-4641"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
