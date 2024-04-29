@@ -1,4 +1,4 @@
-![image](https://github.com/lzhzlw/lzhzlw.github.io/assets/33416227/73d392bd-8aed-4468-bf07-f2ebc9ca5ab5)---
+---
 permalink: /
 title: ""
 excerpt: ""
