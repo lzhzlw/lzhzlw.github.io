@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font weight=700 size="5">Zhenhai Liu </font><br>
+<font weight=700 size="5">Zhenhai Liu (刘侦海)</font><br>
 Ph.D. student <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
