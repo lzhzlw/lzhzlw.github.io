@@ -85,7 +85,7 @@ Contributions: conceptualization, formal analysis, and writing.
 ### Collaborations
 ---
 **2024**
-- Chen, S., Li, X., Qian, Z., Wang, S., Wang, M., Liu, Z., et. al. (2024). Drought trend and its impact on ecosystem carbon sequestration in Lancang-Mekong River Basin. *Acta Geographica Sinica*. 79(3), 747–764. [陈世亮, 李霞, 钱钊晖, 王绍强, 王苗苗, 刘侦海, 李卉, 夏烨, 赵紫祺, 李亭谕, 朱彤彤, 陈璇, 蒋赟浩, & 谷鹏. (2024). 澜沧江——湄公河流域干旱趋势及其对生态系统碳固定的影响. 地理学报, 79(3), 747–764]. [[DOI]](https://doi.org/10.11821/dlxb202403012)
+- Chen, S., Li, X., Qian, Z., Wang, S., Wang, M., `Liu, Z.`, et. al. (2024). Drought trend and its impact on ecosystem carbon sequestration in Lancang-Mekong River Basin. *Acta Geographica Sinica*. 79(3), 747–764. [陈世亮, 李霞, 钱钊晖, 王绍强, 王苗苗, 刘侦海, 李卉, 夏烨, 赵紫祺, 李亭谕, 朱彤彤, 陈璇, 蒋赟浩, & 谷鹏. (2024). 澜沧江——湄公河流域干旱趋势及其对生态系统碳固定的影响. 地理学报, 79(3), 747–764]. [[DOI]](https://doi.org/10.11821/dlxb202403012)
 
 **2023**
 - Chen, B., Wang, P., Wang, S., Ju, W., `Liu, Z.`, et. al. (2023). Simulating canopy carbonyl sulfide uptake of two forest stands through an improved ecosystem model and parameter optimization using an ensemble Kalman filter. *Ecological Modelling*, 475, 110212. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2022.110212).
@@ -95,7 +95,7 @@ Contributions: conceptualization, formal analysis, and writing.
 **2022**
 - Zhu, T., Wang, S., Li, H., Li, X., `Liu, Z.`, et. al. (2022). Variation characteristics and correlation between vegetation phenology and extreme precipitation in Indo-China Peninsula. *Tropical Geography*. 43(3): 532-544. [朱彤彤, 王绍强, 李卉, 李霞, 刘侦海, 钱钊晖, 王小博, 刘媛媛, & 涂勇凯. (2023). 中南半岛植被物候与极端降水的变化特征及关联. 热带地理, 43(3), 532–544] [[DOI]](http://www.rddl.com.cn/EN/10.13284/j.cnki.rddl.003637)
 - Li, H., Zhu, T., `Liu, Z.`, et. al. (2022). Stability differences of coastal and inland vegetation to flood events in Southeast Asia. *Acta Ecologica Sinica*. 42(16): 6745-6757. [李卉, 朱彤彤, 刘侦海, 李霞, 王绍强, 王小博, & 刘媛媛. (2022). 东南亚沿海与内陆植被对洪水事件响应的稳定性差异研究. 生态学报, 42(16)] [[DOI]](https://www.ecologica.cn/stxb/article/abstract/stxb202103130679)
-- Tu Y., Wang S., Huang M., Zhang, H., Chen, B., Liu, Z., et al. (2022). Optimization and Adjustment of Forestry Industrial Structure in Fujian Province [J]. *Forest Inventory and Planning*. 47(1): 135-140. [涂勇凯, 王绍强, 黄玫, 张慧芳, 陈斌, & 刘侦海. (2022). 福建省林业产业结构优化调整分析. 林业调查规划, 47(1), 135–140]. [[DOI]](https://doi.org/10.3969/j.issn.1671-3168.2022.01.023)
+- Tu Y., Wang S., Huang M., Zhang, H., Chen, B., `Liu, Z.`, et al. (2022). Optimization and Adjustment of Forestry Industrial Structure in Fujian Province [J]. *Forest Inventory and Planning*. 47(1): 135-140. [涂勇凯, 王绍强, 黄玫, 张慧芳, 陈斌, & 刘侦海. (2022). 福建省林业产业结构优化调整分析. 林业调查规划, 47(1), 135–140]. [[DOI]](https://doi.org/10.3969/j.issn.1671-3168.2022.01.023)
 
 **2021**
 - Chen, B., Lu, X., Wang, S., Chen, J.M., Liu, Y., Fang, H., `Liu, Z.`, et. al. (2021). Evaluation of Clumping Effects on the Estimation of Global Terrestrial Evapotranspiration. *Remote Sensing*, 13(20), 4075. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2022.110212).
