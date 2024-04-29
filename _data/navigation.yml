@@ -1,13 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: "/publications/"
-
-  - title: "Reviewer Activities"
-    url: "/reviewer_activities/"
-
-  - title: "Professional Activities"
-    url: "/professional_activities/"
-
-  - title: "Projects"
-    url: "/projects/"
+  - title: "About me"
+    url: "/#about-me"
+    
+  - title: "Blog"
+    url: "/blog/"
