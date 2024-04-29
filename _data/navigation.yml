@@ -5,6 +5,3 @@ main:
     
   - title: "Blog"
     url: "/blog/"
-  
-  - title: "Professional Activities"
-    url: "/professional_activities/"
