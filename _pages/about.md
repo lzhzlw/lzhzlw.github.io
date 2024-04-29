@@ -73,7 +73,7 @@ Contributions: conceptualization, formal analysis, model optimization, and writi
 </div>
 </div>
 
-- 	Li, X., `Liu, Z.✉`, Wang, S., Li, F., Li, H., Zhu, T., Qian, Z., Tu, Y., Liu, Y., Wang, X., Wang, Q., Shi, W., & Li, D. (2022). Spatial characteristics of the stability of mangrove ecosystems in freshwater and seawater floods in Southeast Asia. *Journal of Geographical Sciences*, 32(9), 1831–1846.
+- 	Li, X., `Liu, Z.`✉, Wang, S., Li, F., Li, H., Zhu, T., Qian, Z., Tu, Y., Liu, Y., Wang, X., Wang, Q., Shi, W., & Li, D. (2022). Spatial characteristics of the stability of mangrove ecosystems in freshwater and seawater floods in Southeast Asia. *Journal of Geographical Sciences*, 32(9), 1831–1846.
 Contributions: conceptualization, formal analysis, and writing.
 [[DOI]](https://doi.org/10.1007/s11442-022-2025-2) [[Preview]](/pdf_file/LiXia2022.pdf)  
 
