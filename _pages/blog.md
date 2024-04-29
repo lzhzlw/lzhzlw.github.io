@@ -11,5 +11,5 @@ author_profile: true
 3. [Vegetation Index - NDVI and EVI](https://blog.sciencenet.cn/home.php?mod=space&uid=3424049&do=blog&id=1264006) | 2020-12-24
 4. [Heatwave index calculated based on R language:_HWMId](https://blog.sciencenet.cn/home.php?mod=space&uid=3424049&do=blog&id=1262185) | 2020-12-12
 
-# Blog published on CSDN <img src='[./images/tiktok.png](https://img-home.csdnimg.cn/images/20201124032511.png)' style='width: 6em;'>
+# Blog published on CSDN <img src='./images/CSDN.png' style='width: 6em;'>
 [https://blog.csdn.net/qq_32832803](https://blog.csdn.net/qq_32832803)
