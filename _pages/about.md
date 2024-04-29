@@ -1,4 +1,4 @@
----
+![image](https://github.com/lzhzlw/lzhzlw.github.io/assets/33416227/73d392bd-8aed-4468-bf07-f2ebc9ca5ab5)---
 permalink: /
 title: ""
 excerpt: ""
@@ -60,7 +60,6 @@ Supervisor: Prof. [Hong Zhang](https://hzy.sxu.edu.cn/szdw/js/6ac3b703134e4117a4
 <div class='paper-box-text' markdown="1">
 
 -	`Liu, Z.`, Chen, B.✉, Wang, S.✉, Xu, X., Chen, H., Liu, X., He, J.-S., Wang, J., Wang, J., Chen, J., Wang, X., Zheng, C., Zhu, K., & Wang, X. (2024). More enhanced non-growing season methane exchanges under warming on the Qinghai-Tibetan Plateau. *Science of The Total Environment*, 917, 170438. (JCR:Q1; IF:9.8)
-Contributions: conceptualization, formal analysis, model optimization, and writing.
 [[DOI]](https://dx.doi.org/10.1016/j.scitotenv.2024.170438) [[Preview]](/pdf_file/Liu_2024_More enhanced non-growing season methane exchanges.pdf)
 
 </div>
@@ -70,30 +69,30 @@ Contributions: conceptualization, formal analysis, model optimization, and writi
 <div class='paper-box-text' markdown="1">
 
 -	`Liu, Z.`, Chen, B.✉, Wang, S.✉, Wang, Q., Chen, J., Shi, W., Wang, X., Liu, Y., Tu, Y., Huang, M., Wang, J., Wang, Z., Li, H., & Zhu, T. (2021). The impacts of vegetation on the soil surface freezing-thawing processes at permafrost southern edge simulated by an improved process-based ecosystem model. *Ecological Modelling*, 456, 109663. (JCR:Q2; IF:3.1)  
-Contributions: conceptualization, formal analysis, model optimization, and writing.
 [[DOI]](https://dx.doi.org/10.1016/j.ecolmodel.2021.109663) [[Preview]](/pdf_file/Liu et al_2021_Ecological Modelling.pdf)
 
 </div>
 </div>
 
 - 	Li, X., `Liu, Z.`✉, Wang, S., Li, F., Li, H., Zhu, T., Qian, Z., Tu, Y., Liu, Y., Wang, X., Wang, Q., Shi, W., & Li, D. (2022). Spatial characteristics of the stability of mangrove ecosystems in freshwater and seawater floods in Southeast Asia. *Journal of Geographical Sciences*, 32(9), 1831–1846.
-Contributions: conceptualization, formal analysis, and writing.
 [[DOI]](https://doi.org/10.1007/s11442-022-2025-2) [[Preview]](/pdf_file/LiXia2022.pdf)  
 
 - 	`Liu, Z.`, Wang, S., Chen, B.✉. (2021). Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor from 2000 to 2015. *Acta Geographica Sinica*. 76(5): 1231-1244. [刘侦海, 王绍强, & 陈斌. (2021). 2000—2015年中蒙俄经济走廊东段冻土时空变化及植被响应. 地理学报, 76(5), 1231–1244]
-Contributions: conceptualization, formal analysis, and writing.
 [[DOI]](http://www.geog.com.cn/CN/10.11821/dlxb202105014) [[Preview]](/pdf_file/Liu et al_2021_Acta Geographica Sinica.pdf)
 
 
 ### Collaborations
 ---
 **2024**
+- Li, H., Wang, X.✉, Wang, S.✉, Liu, J., Liu, Y., `Liu, Z.`, Chen, S., Wang, Q., Zhu, T., Wang, L., & Wang, L. (2024). ChinaRiceCalendar – seasonal crop calendars for early-, middle-, and late-season rice in China. *Earth System Science Data*, 16(4), 1689–1701. [[DOI]](https://doi.org/10.5194/essd-16-1689-2024)
+- Chen, B., Li, Y., Wang, S.✉, Chen, J., Zhang, X., `Liu, Z.`, & Croft, H. (2024). Integrating leaf functional traits improves modelled estimates of carbon and water fluxes at a subtropical evergreen conifer forest. *Ecological Modelling*, 488, 110593. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2023.110593)
+- Chen, B., Li, Y., Wang, S.✉, Chen, J., Zhang, X., `Liu, Z.`, & Croft, H. (2024). Integrating leaf functional traits improves modelled estimates of carbon and water fluxes at a subtropical evergreen conifer forest. *Ecological Modelling*, 488, 110593. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2023.110593)
 - Chen, S., Li, X., Qian, Z., Wang, S.✉, Wang, M., `Liu, Z.`, et. al. (2024). Drought trend and its impact on ecosystem carbon sequestration in Lancang-Mekong River Basin. *Acta Geographica Sinica*. 79(3), 747–764. [陈世亮, 李霞, 钱钊晖, 王绍强, 王苗苗, 刘侦海, 李卉, 夏烨, 赵紫祺, 李亭谕, 朱彤彤, 陈璇, 蒋赟浩, & 谷鹏. (2024). 澜沧江——湄公河流域干旱趋势及其对生态系统碳固定的影响. 地理学报, 79(3), 747–764]. [[DOI]](https://doi.org/10.11821/dlxb202403012)
 
 **2023**
-- Chen, B., Wang, P., Wang, S.✉, Ju, W., `Liu, Z.`, et. al. (2023). Simulating canopy carbonyl sulfide uptake of two forest stands through an improved ecosystem model and parameter optimization using an ensemble Kalman filter. *Ecological Modelling*, 475, 110212. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2022.110212).
-- Wang, Q., Mei, M., Wang, S.✉, Chen, B., `Liu, Z.`, et. al. (2023). Evaluation of the impacts of ozone on the vegetation productivity of woodland and grassland ecosystems in China. *Ecological Modelling*, 483, 110426. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2023.110426).
-- Chen, S., Chen, B., Wang, S.✉, Sun, L., Shi, H., `Liu, Z.`, et. al. (2023). Spatiotemporal variations of atmospheric nitrogen deposition in China during 2008–2020. *Atmospheric Environment*, 315, 120120. [[DOI]](https://doi.org/10.1016/j.atmosenv.2023.120120).
+- Chen, B., Wang, P., Wang, S.✉, Ju, W., `Liu, Z.`, et. al. (2023). Simulating canopy carbonyl sulfide uptake of two forest stands through an improved ecosystem model and parameter optimization using an ensemble Kalman filter. *Ecological Modelling*, 475, 110212. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2022.110212)
+- Wang, Q., Mei, M., Wang, S.✉, Chen, B., `Liu, Z.`, et. al. (2023). Evaluation of the impacts of ozone on the vegetation productivity of woodland and grassland ecosystems in China. *Ecological Modelling*, 483, 110426. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2023.110426)
+- Chen, S., Chen, B., Wang, S.✉, Sun, L., Shi, H., `Liu, Z.`, et. al. (2023). Spatiotemporal variations of atmospheric nitrogen deposition in China during 2008–2020. *Atmospheric Environment*, 315, 120120. [[DOI]](https://doi.org/10.1016/j.atmosenv.2023.120120)
 
 **2022**
 - Zhu, T., Wang, S.✉, Li, H., Li, X., `Liu, Z.`, et. al. (2022). Variation characteristics and correlation between vegetation phenology and extreme precipitation in Indo-China Peninsula. *Tropical Geography*. 43(3): 532-544. [朱彤彤, 王绍强, 李卉, 李霞, 刘侦海, 钱钊晖, 王小博, 刘媛媛, & 涂勇凯. (2023). 中南半岛植被物候与极端降水的变化特征及关联. 热带地理, 43(3), 532–544] [[DOI]](http://www.rddl.com.cn/EN/10.13284/j.cnki.rddl.003637)
@@ -101,10 +100,10 @@ Contributions: conceptualization, formal analysis, and writing.
 - Tu Y., Wang S.✉, Huang M., Zhang, H., Chen, B., `Liu, Z.`, et al. (2022). Optimization and Adjustment of Forestry Industrial Structure in Fujian Province [J]. *Forest Inventory and Planning*. 47(1): 135-140. [涂勇凯, 王绍强, 黄玫, 张慧芳, 陈斌, & 刘侦海. (2022). 福建省林业产业结构优化调整分析. 林业调查规划, 47(1), 135–140]. [[DOI]](https://doi.org/10.3969/j.issn.1671-3168.2022.01.023)
 
 **2021**
-- Chen, B., Lu, X., Wang, S.✉, Chen, J.M., Liu, Y., Fang, H., `Liu, Z.`, et. al. (2021). Evaluation of Clumping Effects on the Estimation of Global Terrestrial Evapotranspiration. *Remote Sensing*, 13(20), 4075. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2022.110212).
+- Chen, B., Lu, X., Wang, S.✉, Chen, J.M., Liu, Y., Fang, H., `Liu, Z.`, et. al. (2021). Evaluation of Clumping Effects on the Estimation of Global Terrestrial Evapotranspiration. *Remote Sensing*, 13(20), 4075. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2022.110212)
 
 **2020**
-- Chen, B., Arain, M.A., Chen, J.M., Wang, S.✉, Fang, H., `Liu, Z.`, et. al. (2020). Importance of Shaded Leaf Contribution to the Total GPP of Canadian Terrestrial Ecosystems: Evaluation of MODIS GPP. *Journal of Geophysical Research: Biogeosciences*, 125(10), e2020JG005917. [[DOI]](https://doi.org/10.1029/2020JG005917).
+- Chen, B., Arain, M.A., Chen, J.M., Wang, S.✉, Fang, H., `Liu, Z.`, et. al. (2020). Importance of Shaded Leaf Contribution to the Total GPP of Canadian Terrestrial Ecosystems: Evaluation of MODIS GPP. *Journal of Geophysical Research: Biogeosciences*, 125(10), e2020JG005917. [[DOI]](https://doi.org/10.1029/2020JG005917)
 
 **2019**
 - Cheng, Y., Zhang, H.✉, `Liu, Z.`, et. al. (2019). Hybrid algorithm for short-term forecasting of PM2.5 in China. *Atmospheric Environment*, 200, 264–279. [[DOI]](https://doi.org/10.1016/j.atmosenv.2018.12.025)
@@ -119,13 +118,17 @@ Contributions: conceptualization, formal analysis, and writing.
 
 # 🏅 Awards
 - *2021*, National scholarship for Postgraduates
-- *2019*, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competi-tion, Provincial First Prize
+- *2019*, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, First Prize of Shanxi Province
 
 <br>
 
 # 🏛️ Conference
-- *2023*, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau
-- *2023*, The 7th Symposium of Young Scholars on Terrestrial Ecosystems, Linzhi Tibet, Oral (in Chinese): Seasonal differences in response of methane flux to soil temperature over the Qinghai-Tibet Plateau.
+1. **2023**, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau.
+2. **2023**, The 7th Symposium of Young Scholars on Terrestrial Ecosystems, Linzhi Tibet China, Oral (in Chinese): Seasonal differences in response of methane flux to soil temperature over the Qinghai-Tibet Plateau.
+3. **2021**, International Symposium on Coastal Ecosystems and Global Change, Xiamen Fujian China, Oral: Potential impacts of the increasing coastal flooding on mangrove forest ecosystem.
+4. **2020**, The 6th Symposium of Young Scholars on Terrestrial Ecosystems, Nanjing Jiangsu China, Oral (in Chinese): Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor.
+5. **2020**, The 2nd Symposium on Greenhouse Gas Monitoring in China, Online, Oral (in Chinese): Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor.
+6. **2020**, The 19th Chinese Ecological Congress, Online, Poster: Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. (Excellent Poster Award)
 
 <br>
 
