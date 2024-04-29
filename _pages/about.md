@@ -15,64 +15,99 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span> 
+<span class='anchor' id='about-me'></span>
 
-# About me
-Xiaoyang Li (Member, IEEE) received the B.Eng. degree from the Southern University of Science and Technology (SUSTech) in 2016 and the Ph.D.
-degree from The University of Hong Kong (HKU) in 2020. From 2020 to 2022, he was a Presidential Distinguished Research Fellow at SUSTech. He is currently a Research Scientist (Associate Research Fellow) with the Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen). His research interests include crowd intelligence, edge learning, integrated sensing-communication-computation, over-the-air computation, and wirelessly powered communication.
-<!-- 这一行是总citations的数据 -->
-<!-- <a href='https://scholar.google.es/citations?user=pw0f1aIAAAAJ&hl'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
+<font weight=700 size="5">Zhenhai Liu </font><br>
+Ph.D. student <br>
+Institute of Geographic Sciences and Natural Resources Research <br>
+University of Chinese Academy of Sciences <br>
+11A, Datun Road, Chaoyang District, Beijing, 100101, China <br>
+Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn</a> <br> 
 
-# Research Interests
-- Crowd intelligence
-- Edge learning
-- Integrated sensing-communication-computation
-- Over-the-air computation
-- Wirelessly powered communications
+<span class='anchor' id='-xl'></span>
 
-# Working experience
-- *2022.12 to now*, Shenzhen Research Institute of Big Data, The Chinese University of Hong Kong (Shenzhen)
-  - Research Scientist/ Research Associate
-- *2020.10 to 2022.12*, Southern University of Science and Technology (SUSTech)
-  - Presidential Distinguished Research Fellow
-  
-# Educations
-- *2016.09 to 2020.12*, The University of Hong Kong
-  - PhD degree
-  - Supervisor: Prof. Kaibin Huang
-- *2019.06 to 2019.07*, University of Toronto
-  - Visiting scholar
-  - Supervisor: Prof. Wei Yu
-- *2012.09 to 2016.07*, SUSTech
-  - Bachelor degree
-  - Supervisor: Prof. Yi Gong
+# 🧐 Research Interests：
+- Global Change Ecology
+- Ecosystem Carbon Cycle
+- Cryosphere
+- Process-based Modeling
+- Ecological Remote Sensing
+
+<span class='anchor' id='-xl'></span>
+
+# 🎓 Education
+**Ph.D. (2022–) | Ecology**<br>
+Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Sciences, Beijing, China.<br>
+Supervisor: Prof. [Shaoqiang Wang](https://people.ucas.ac.cn/~0007756)<br>
+
+**Visiting Student (May. 2024–April. 2025)**<br>
+Michigan State University, East Lansing, USA. <br>
+Supervisor: Prof. [Jiquan Chen](http://lees.geo.msu.edu/people/jchen.html)<br>
+
+**M.S. (2019–2022) | Geography**<br>
+China University of Geosciences, Wuhan, China. <br>
+Supervisor: Prof. [Shaoqiang Wang](https://people.ucas.ac.cn/~0007756)<br>
+
+**B.S. (2015–2019) | Physical Geography and Resources Environment**<br>
+Shanxi University, Taiyuan, China.<br>
+Supervisor: Prof. [Hong Zhang](https://hzy.sxu.edu.cn/szdw/js/6ac3b703134e4117a4640f2e16c415d7.htm)<br>
  
-# Honors and Awards
-- Forbes 30 under 30 (Top 30 in China), 2022.
-- IEEE Wireless Communications Letters Exemplary Reviewer, 2022.
-- Top 50 in Great Bay Area High Value Patent Competition (Top 50 in 2000+), 2022.
-- Guangdong Overseas Youth Talent, 2021.
-- Shenzhen Overseas High-caliber Personnel, 2021.
-- Presidential Distinguished Postdoc of SUSTech (15 persons per year), 2020.
-- HKU Postgraduate Scholarship, 2016-2020.
-- First prize at the PhD Forum of Shenzhen, Hong Kong, Macao and Taiwan, 2017.
-- SUSTech Outstanding graduation thesis of Bachelor degree, 2016.
-- SUSTech Outstanding graduate of Bachelor degree, 2016.
-- Shenzhen Universiade International Scholarship, 2015.
+<span class='anchor' id='-lwzl'></span>
 
-# Projects
-- National Natural Science Foundation of China (NSFC), “Technologies of Mobile Crowd Sensing and Communication for Sensor Networks”, Grant No.: 29857528, ¥300k, PI, 2022-2024.
-- Shenzhen Natural Science Foundation General Program, “Research on Technologies of Integrated Sensing, Communication, and Computation for Intelligent Internet of Things”, Grant No.: JCYJ20220530113017039, ¥300k, PI, 2023-2025.
-- Shenzhen Postdoctoral Research Fund, “Research on Wireless Integrated Sensing and Communications”, ¥300k, PI, 2023-2025.
-- China Postdoctoral Science Foundation, “Research on Key Technologies of Wireless Crowd Sensing for Sensor Networks”, Grant No.: 2021M691452, ¥80k, PI, 2020-2022.
-- China Academy of Information and Communication Technology (CAICT) Collaboration Project, “Research on theory and algorithm of multi-modal wireless network location estimation and tracking for 6G”, ¥540k, PI, 2022-2023.
-- Shenzhen Research Institute of Big Data (SRIBD) Project, J00220230004, “Research on Technologies of Integrated Sensing, Communication, and Computation for Intelligent Learning”, ¥100k, PI, 2023-2024.
-- NSFC, “Research on Key Technologies for Wireless Crowd Labelling”, Grant No.: 62071212, ¥550k, Core Member, 2021-2024.
-- SRIBD Project, J00120230001, “Indoor Human Activity Recognition based on WiFi Signals”, ¥660k, Core Member, 2023-2024.
+# 📝 Publications <a href='https://scholar.google.com/citations?user=uOj4SbgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
-# Latest Publications
-- X. Li, Y. Gong*, K. Huang, and Z. Niu, “Over-the-Air Integrated Sensing, Communication, and Computation in IoT Networks”, IEEE Wireless Communications, vol. 30, no. 1, pp. 32-38, Feb. 2023.
-- X. Li, F. Liu, Z. Zhou, G. Zhu, S. Wang, K. Huang, and Y. Gong*, “Integrated Sensing, communication, and computation Over-the-Air: MIMO Beamforming Design”, IEEE Transactions on Wireless Communications, vol. 22, no. 8, pp. 5383-5398, Aug. 2023.
-- Z. Zhou, X. Li*, C. You, K. Huang, and Y. Gong, “Joint Sensing and Communication-Rate Control for Energy Efficient Mobile Crowd Sensing”, IEEE Transactions on Wireless Communications, vol. 22, no. 2, pp. 1314-1327, Feb. 2023.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Total Environ 2024</div><img src='images/SCI_TOTAL_ENVIRON_2024.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-[Full list of publications.](/publications/)
+-	`Liu, Z.`, Bin Chen, Shaoqiang Wang, Xiyan Xu, Huai Chen, Xinwei Liu, Jin-Sheng He, Jianbin Wang, Jinsong Wang, Jinghua Chen, Xiaobo Wang, Chen Zheng, Kai Zhu, & Xueqing Wang. (2024). More enhanced non-growing season methane exchanges under warming on the Qinghai-Tibetan Plateau. *Science of The Total Environment*, 917, 170438. (JCR:Q1; IF:9.8)  
+[[DOI]](https://dx.doi.org/10.1016/j.scitotenv.2024.170438) [[Preview]](/pdf_file/Liu_2024_More enhanced non-growing season methane exchanges.pdf)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecol Model 2021</div><img src='images/Eco_Modeling_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Liu, Z.`, Chen, B., Wang, S., Wang, Q., Chen, J., Shi, W., Wang, X., Liu, Y., Tu, Y., Huang, M., Wang, J., Wang, Z., Li, H., & Zhu, T. (2021). The impacts of vegetation on the soil surface freezing-thawing processes at permafrost southern edge simulated by an improved process-based ecosystem model. *Ecological Modelling*, 456, 109663. (JCR:Q2; IF:3.1)  
+[[DOI]](https://dx.doi.org/10.1016/j.ecolmodel.2021.109663) [[Preview]](/pdf_file/Liu et al_2021_Ecological Modelling.pdf)
+
+</div>
+</div>
+
+- 	Li, X., `Liu, Z.`, Wang, S., Li, F., Li, H., Zhu, T., Qian, Z., Tu, Y., Liu, Y., Wang, X., Wang, Q., Shi, W., & Li, D. (2022). Spatial characteristics of the stability of mangrove ecosystems in freshwater and seawater floods in Southeast Asia. *Journal of Geographical Sciences*, 32(9), 1831–1846. [[DOI]](https://doi.org/10.1007/s11442-022-2025-2) [[Preview]](/pdf_file/LiXia2022.pdf)  
+
+- 	`Liu, Z.`, Wang, S., Chen, B.*. (2021). Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor from 2000 to 2015. *Acta Geographica Sinica*. 76(5): 1231-1244.  
+[[DOI]](http://www.geog.com.cn/CN/10.11821/dlxb202105014) [[Preview]](/pdf_file/Liu et al_2021_Acta Geographica Sinica.pdf)  
+
+### Software Copyright
+---
+- Liu Z., Chen B., Wang S. (2023). Hourly frozen soil profile heat transfer simulator
+- Li H., Wang S., Liu Z., Zhu T. (2021). Extreme climate index Sen+Mann-Kendall trend analysis system software. 2021SR0638388.
+
+
+<span class='anchor' id='-ryjx'></span>
+
+# 🏅 Awards
+- *2021*, National scholarship for Postgraduates
+- *2019*, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competi-tion, Provincial First Prize
+
+<span class='anchor' id='-xshy'></span>
+
+# 🏛️ Conference
+- *2023*, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau
+- *2023*, The 7th Symposium of Young Scholars on Terrestrial Ecosystems, Linzhi Tibet, Oral (in Chinese): Seasonal differences in response of methane flux to soil temperature over the Qinghai-Tibet Plateau.
+
+
+<span class='anchor' id='-gzsx'></span>
+
+# 🏔️ Field Experiment Experience
+- *2022*, Soil sampling in Haibei area, northern Tibetan Plateau.
+
+<span class='anchor' id='-gzsx'></span>
+
+# 🦾 Skills & Expertise
+- Model: Boreal Ecosystem Productivity Simulator (BEPS)
+- Flux data processing: PyFluxPro
+- Programming: C/C++, MATLAB, Python, R
+- Softwere: ArcGIS, ENVI
+
