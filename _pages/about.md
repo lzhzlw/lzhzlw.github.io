@@ -31,7 +31,6 @@ Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn<
 - Ecosystem Carbon Cycle
 - Cryosphere
 - Process-based Modeling
-- Ecological Remote Sensing
 
 <br>
 
