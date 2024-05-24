@@ -37,19 +37,15 @@ Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn<
 # 🎓 Education
 **Ph.D. (2022–) | Ecology**<br>
 Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Sciences, Beijing, China.<br>
-Supervisor: Prof. [Shaoqiang Wang](https://people.ucas.ac.cn/~0007756)<br>
 
 **Visiting Student (May. 2024–April. 2025)**<br>
 Michigan State University, East Lansing, USA. <br>
-Supervisor: Prof. [Jiquan Chen](http://lees.geo.msu.edu/people/jchen.html)<br>
 
 **M.S. (2019–2022) | Geography**<br>
 China University of Geosciences, Wuhan, China. <br>
-Supervisor: Prof. [Shaoqiang Wang](https://people.ucas.ac.cn/~0007756)<br>
 
 **B.S. (2015–2019) | Physical Geography and Resources Environment**<br>
 Shanxi University, Taiyuan, China.<br>
-Supervisor: Prof. [Hong Zhang](https://hzy.sxu.edu.cn/szdw/js/6ac3b703134e4117a4640f2e16c415d7.htm)<br>
 
  <br>
 
