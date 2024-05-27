@@ -149,5 +149,5 @@ Shanxi University, Taiyuan, China.<br>
 
 # 🗺️ Visitor Map
 <div style="width: 500px; height: 250px; ">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=000d72&w=500&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM&co=ffffff&ct=000d72&cmo=0b7c00&cmn=e24100'></script>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
 </div>
