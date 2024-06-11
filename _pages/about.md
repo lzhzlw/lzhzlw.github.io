@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <font weight=700 size="5">Zhenhai Liu (刘侦海)</font><br>
-Ph.D. student <br>
+Ph.D. candidate <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
 11A, Datun Road, Chaoyang District, Beijing, 100101, China <br>
@@ -112,7 +112,7 @@ Shanxi University, Taiyuan, China.<br>
 <br>
 
 # 🏅 Awards
-- *2021*, National scholarship for Postgraduates
+- *2021*, National Scholarship for Postgraduates, ￥20,000
 - *2019*, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, First Prize of Shanxi Province
 
 <br>
@@ -129,6 +129,11 @@ Shanxi University, Taiyuan, China.<br>
 
 # 🏔️ Field Experiment
 - **2022**, Soil sampling in Haibei area, northern Tibetan Plateau.
+
+<br>
+
+# 🖆 Peer Review Experience
+- 2023. *Qeios*. A Research Note on Natural Reclamation Processes that Support Mangrove Biodiversity Spheres: Sedimentation in Three Major River Deltas in Northwestern Luzon Using Aerial Imagery. [[DOI]](https://www.qeios.com/read/1DPYXD)
 
 <br>
 
