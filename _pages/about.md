@@ -139,7 +139,7 @@ Shanxi University, Taiyuan, China.<br>
 <br>
 
 # 🤝 Service
-- **2024-2026**, Permafrost Young Researchers Network (PYRN), Executive Committee
+- **2024-2026**, Permafrost Young Researchers Network (PYRN), Executive Committee [[web]](https://pyrn.arcticportal.org/about-us/executive-committee/excom-2024-2026)
 - **2023**， Volunteer of Geographic Resources Youth Innovation Forum, Youth Innovation Promotion Association CAS
 - **2022-2023**, Member of postgraduate student union of Institute of Geographic Sciences and Natural Resources Research
 - **2015-2016**, Member of graduate student union of Shanxi University
