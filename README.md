@@ -48,15 +48,20 @@ Change border-color: mix(#fff, $primary-color, 50%) to border-color: mix(#7a8288
 
 ## Change the background color of navigation
 **_sass/_navigation.scss**
+line 178
 ```
 .greedy-nav{
-  background: #171969;//$background-color;
+  background: #0D4994;//$background-color;
 }
 ```
 **_sass/_masthead.scss**
 line 8
 ```
 .masthead {
-  background-color: #171969;//white;
+  background-color: #0D4994;//white;
 }
 ```
+
+## Change the body font color
+**_sass/_variables.scss**
+Change $text-color from $dark-gray to #000
