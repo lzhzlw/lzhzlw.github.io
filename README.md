@@ -30,4 +30,12 @@ forked from [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-ho
   }
 }
 ```
-Change 50% to 0%
+Change border-radius from 50% to 0%
+
+## Change the font color of navigation
+**_sass/_navigation.scss**
+```
+.greedy-nav{
+  color:#fff
+}
+```
