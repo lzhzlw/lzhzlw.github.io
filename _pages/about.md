@@ -39,7 +39,7 @@ June 2024
 **Ph.D. (2022–) | Ecology**<br>
 Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Sciences, Beijing, China.<br>
 
-**Visiting Student (2024–2025)**<br>
+**Visiting Student (2024–)**<br>
 Michigan State University, East Lansing, USA. <br>
 
 **M.S. (2019–2022) | Geography**<br>
