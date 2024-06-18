@@ -24,7 +24,7 @@ forked from [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-ho
     border-radius: 0%;//50%;
 
     @include breakpoint($large) {
-      padding: 5px;
+      padding: 0px;
       border: 1px solid $border-color;
     }
   }
