@@ -39,3 +39,24 @@ Change border-radius from 50% to 0%
   color:#fff
 }
 ```
+**_sass/_variables.scss**
+Change primary-color from #7a8288 to #fff
+
+**_sass/_forms.scss**
+line 89
+Change border-color: mix(#fff, $primary-color, 50%) to border-color: mix(#7a8288, $primary-color, 50%)
+
+## Change the background color of navigation
+**_sass/_navigation.scss**
+```
+.greedy-nav{
+  background: #171969;//$background-color;
+}
+```
+**_sass/_masthead.scss**
+line 8
+```
+.masthead {
+  background-color: #171969;//white;
+}
+```
