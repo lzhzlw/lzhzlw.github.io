@@ -27,7 +27,7 @@ June 2024
 
 <br>
 
-# Research Interests：
+# 🧐 Research Interests：
 - Global Change Ecology
 - Ecosystem Carbon Cycle
 - Cryosphere
@@ -35,7 +35,7 @@ June 2024
 
 <br>
 
-# Education
+# 🎓 Education
 **Ph.D. (2022–) | Ecology**<br>
 Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Sciences, Beijing, China.<br>
 
@@ -50,7 +50,7 @@ Shanxi University, Taiyuan, China.<br>
 
  <br>
 
-# Publications <a href='https://scholar.google.com/citations?user=uOj4SbgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+# 📝 Publications <a href='https://scholar.google.com/citations?user=uOj4SbgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Total Environ 2024</div><img src='images/SCI_TOTAL_ENVIRON_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -76,6 +76,7 @@ Shanxi University, Taiyuan, China.<br>
 - 	`Liu, Z.`, Wang, S., Chen, B.✉. (2021). Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor from 2000 to 2015. *Acta Geographica Sinica*. 76(5): 1231-1244. [刘侦海, 王绍强, & 陈斌. (2021). 2000—2015年中蒙俄经济走廊东段冻土时空变化及植被响应. 地理学报, 76(5), 1231–1244]
 [[DOI]](http://www.geog.com.cn/CN/10.11821/dlxb202105014) [[Preview]](/pdf_file/Liu et al_2021_Acta Geographica Sinica.pdf)
 
+<br>
 
 ### Collaborations
 ---
@@ -104,6 +105,7 @@ Shanxi University, Taiyuan, China.<br>
 **2019**
 - Cheng, Y., Zhang, H.✉, `Liu, Z.`, et. al. (2019). Hybrid algorithm for short-term forecasting of PM2.5 in China. *Atmospheric Environment*, 200, 264–279. [[DOI]](https://doi.org/10.1016/j.atmosenv.2018.12.025)
 
+<br>
 
 ### Software Copyright
 ---
@@ -112,7 +114,7 @@ Shanxi University, Taiyuan, China.<br>
 
 <br>
 
-# Fellowships & Awards
+# 🏅 Fellowships & Awards
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024) Travel Fund, IAG Grant, €500
 - **2024**, ICOP 2024 Registration Financial Assistance, International Permafrost Association (IPA), $578 CAD
 - **2021**, National Scholarship for Postgraduates, ￥20,000
@@ -120,7 +122,7 @@ Shanxi University, Taiyuan, China.<br>
 
 <br>
 
-# Presentations & Posters
+# 🏛️ Presentations & Posters
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024), Yukon Canada, Frostbyte. [[mp4]](https://www.youtube.com/watch?v=bI9li6ZzybY&list=PL66g8op55w_kl6T81uroDczN29IjRTUIa&index=24&ab_channel=PermafrostYoungResearcher%27sNetwork)
 - **2023**, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau. [[pdf]](/pdf_file/Meeting_2023_AsiaFLUX.pdf)
 - **2023**, The 7th Symposium of Young Scholars on Terrestrial Ecosystems, Linzhi Tibet China, Oral (in Chinese): Seasonal differences in response of methane flux to soil temperature over the Qinghai-Tibet Plateau. [[pdf]](/pdf_file/Meeting_2023_Linzhi.pdf)
@@ -131,18 +133,18 @@ Shanxi University, Taiyuan, China.<br>
 
 <br>
 
-# Field Experiment
+# 🏔️ Field Experiment
 - **2022**, Soil sampling in Haibei area, northern Tibetan Plateau.
 
 <br>
 
-# Peer Review Experience
+# 🖆 Peer Review Experience
 - **2024**, *Biodiversitas Journal of Biological Diversity*, Determination of vegetation community structure and health index spatial distribution of mangrove forest on Teluk Pangpang, Banyuwangi, East Java, Indonesia
 - **2023**, *Qeios*, A Research Note on Natural Reclamation Processes that Support Mangrove Biodiversity Spheres: Sedimentation in Three Major River Deltas in Northwestern Luzon Using Aerial Imagery. [[DOI]](https://www.qeios.com/read/1DPYXD)
 
 <br>
 
-# Service
+# 🤝 Service
 - **2024-2026**, Permafrost Young Researchers Network (PYRN), Executive Committee [[web]](https://pyrn.arcticportal.org/about-us/executive-committee/excom-2024-2026)
 - **2023**， Volunteer of Geographic Resources Youth Innovation Forum, Youth Innovation Promotion Association CAS
 - **2022-2023**, Member of postgraduate student union of Institute of Geographic Sciences and Natural Resources Research
@@ -150,7 +152,7 @@ Shanxi University, Taiyuan, China.<br>
 
 <br>
 
-# Skills & Expertise
+# 🦾 Skills & Expertise
 - Model: Boreal Ecosystem Productivity Simulator (BEPS)
 - Flux data processing: PyFluxPro
 - Programming: C/C++, MATLAB, Python, R
@@ -158,7 +160,7 @@ Shanxi University, Taiyuan, China.<br>
 
 <br>
 
-# Visitor Map
+# 🗺️ Visitor Map
 <div style="width: 500px; height: 250px; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
 </div>
