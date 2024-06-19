@@ -23,7 +23,6 @@ Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
 11A, Datun Road, Chaoyang District, Beijing, 100101, China <br>
 Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn</a> <br> 
-June 2024
 
 <br>
 
