@@ -178,7 +178,7 @@ Shanxi University, Taiyuan, China.<br>
         data-emit-metadata="0"
         data-input-position="top"
         data-theme="noborder_light"
-        data-lang="zh-CN"
+        data-lang="en"
         data-loading="lazy"
         crossorigin="anonymousanonymous"
         async>
