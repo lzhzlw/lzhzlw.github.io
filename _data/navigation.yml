@@ -5,3 +5,6 @@ main:
     
   - title: "Blog"
     url: "/blog/"
+
+  - title: "Album"
+    url: "/album/"
