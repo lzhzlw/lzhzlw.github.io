@@ -117,7 +117,7 @@ Shanxi University, Taiyuan, China.<br>
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024) Travel Fund, IAG Grant, €500
 - **2024**, ICOP 2024 Registration Financial Assistance, International Permafrost Association (IPA), $578 CAD
 - **2021**, National Scholarship for Postgraduates, ￥20,000 
-- **2019**, Academic Search Challenge for all Universities in Hubei Province, First Prize of Hubei Province
+- **2019**, Academic Search Challenge for all Universities in Hubei Province, First Prize of Hubei Province [news](https://voice.cug.edu.cn/info/1032/15563.htm)
 - **2019**, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, First Prize of Shanxi Province
 
 <br>
@@ -151,9 +151,6 @@ Shanxi University, Taiyuan, China.<br>
 <div style="width: 500px; height: 250px; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
 </div>
-
-<br>
-
 <script src="https://giscus.app/client.js"
         data-repo="lzhzlw/lzhzlw.github.io"
         data-repo-id="R_kgDOL0jrFg"
