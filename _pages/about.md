@@ -116,8 +116,8 @@ Shanxi University, Taiyuan, China.<br>
 # 🏅 Fellowships & Awards
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024) Travel Fund, IAG Grant, €500
 - **2024**, ICOP 2024 Registration Financial Assistance, International Permafrost Association (IPA), $578 CAD
-- **2021**, National Scholarship for Postgraduates, ￥20,000 [news](https://mp.weixin.qq.com/s/bwWU0I2TjtoJfwfuJVoktg)
-- **2019**, Academic Search Challenge for all Universities in Hubei Province, First Prize of Hubei Province [news](https://voice.cug.edu.cn/info/1032/15563.htm)
+- **2021**, National Scholarship for Postgraduates, ￥20,000 
+- **2019**, Academic Search Challenge for all Universities in Hubei Province, First Prize of Hubei Province
 - **2019**, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, First Prize of Shanxi Province
 
 <br>
@@ -133,22 +133,9 @@ Shanxi University, Taiyuan, China.<br>
 
 <br>
 
-# 🏔️ Field Experiment
-- **2022**, Soil sampling in Haibei area, northern Tibetan Plateau.
-
-<br>
-
-# 🖆 Peer Review Experience
-- **2024**, *Biodiversitas Journal of Biological Diversity*, Determination of vegetation community structure and health index spatial distribution of mangrove forest on Teluk Pangpang, Banyuwangi, East Java, Indonesia
-- **2023**, *Qeios*, A Research Note on Natural Reclamation Processes that Support Mangrove Biodiversity Spheres: Sedimentation in Three Major River Deltas in Northwestern Luzon Using Aerial Imagery. [[DOI]](https://www.qeios.com/read/1DPYXD)
-
-<br>
-
 # 🤝 Service
 - **2024-2026**, Permafrost Young Researchers Network (PYRN), Executive Committee [[web]](https://pyrn.arcticportal.org/about-us/executive-committee/excom-2024-2026)
 - **2023**， Volunteer of Geographic Resources Youth Innovation Forum, Youth Innovation Promotion Association CAS
-- **2022-2023**, Member of postgraduate student union of Institute of Geographic Sciences and Natural Resources Research
-- **2015-2016**, Member of graduate student union of Shanxi University
 
 <br>
 
