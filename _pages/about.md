@@ -136,6 +136,7 @@ Shanxi University, Taiyuan, China.<br>
 # 🤝 Service
 - **2024-2026**, Permafrost Young Researchers Network (PYRN), Executive Committee [[web]](https://pyrn.arcticportal.org/about-us/executive-committee/excom-2024-2026)
 - **2023**， Volunteer of Geographic Resources Youth Innovation Forum, Youth Innovation Promotion Association CAS
+- **Peer review**: *Biodiversitas Journal of Biological Diversity*, *Qeios*, ...
 
 <br>
 
