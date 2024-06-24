@@ -6,7 +6,7 @@ main:
   - title: "Blog"
     url: "/blog/"
 
-  - title: "Reviewer activities"
+  - title: "Reviewer Activities"
     url: "/reviewer_activities/"
 
   - title: "Album"
