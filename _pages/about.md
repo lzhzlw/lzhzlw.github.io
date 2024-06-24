@@ -160,14 +160,13 @@ Shanxi University, Taiyuan, China.<br>
 
 <br>
 
-# 🗺️ Visitor Map
+# 🗺️ Visitor
 <div style="width: 500px; height: 250px; ">
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=inSaCZvxrf_sNRxKyiFD71CqYG4FBFO01HF_W3IEJoM'></script>
 </div>
 
 <br>
 
-# 👁️‍🗨️ Discussion
 <script src="https://giscus.app/client.js"
         data-repo="lzhzlw/lzhzlw.github.io"
         data-repo-id="R_kgDOL0jrFg"
