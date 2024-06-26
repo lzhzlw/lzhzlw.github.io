@@ -117,24 +117,24 @@ Shanxi University, Taiyuan, China.<br>
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024) Travel Fund, IAG Grant, €500
 - **2024**, ICOP 2024 Registration Financial Assistance, International Permafrost Association (IPA), $578 CAD
 - **2021**, National Scholarship for Postgraduates, ￥20,000 
-- **2019**, Academic Search Challenge for all Universities in Hubei Province, First Prize of Hubei Province [news](https://voice.cug.edu.cn/info/1032/15563.htm)
+- **2019**, Academic Search Challenge for all Universities in Hubei Province, First Prize of Hubei Province [NEWS](https://voice.cug.edu.cn/info/1032/15563.htm)
 - **2019**, "Challenge Cup" National College Student Curricular Academic Science and Technology Works Competition, First Prize of Shanxi Province
 
 <br>
 
 # 🏛️ Presentations & Posters
-- **2024**, The 12 th International Conference on Permafrost (ICOP 2024), Yukon Canada, Frostbyte. [[mp4]](https://www.youtube.com/watch?v=bI9li6ZzybY&list=PL66g8op55w_kl6T81uroDczN29IjRTUIa&index=24&ab_channel=PermafrostYoungResearcher%27sNetwork)
-- **2023**, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau. [[pdf]](/pdf_file/Meeting_2023_AsiaFLUX.pdf)
-- **2023**, The 7th Symposium of Young Scholars on Terrestrial Ecosystems, Linzhi Tibet China, Oral (in Chinese): Seasonal differences in response of methane flux to soil temperature over the Qinghai-Tibet Plateau. [[pdf]](/pdf_file/Meeting_2023_Linzhi.pdf)
-- **2021**, International Symposium on Coastal Ecosystems and Global Change, Xiamen Fujian China, Oral: Potential impacts of the increasing coastal flooding on mangrove forest ecosystem. [[pdf]](/pdf_file/Meeting_2021_Xiamen.pdf)
-- **2020**, The 6th Symposium of Young Scholars on Terrestrial Ecosystems, Nanjing Jiangsu China, Oral (in Chinese): Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. [[pdf]](/pdf_file/Meeting_2020_Nanjing.pdf)
-- **2020**, The 2nd Symposium on Greenhouse Gas Monitoring in China, Online, Oral (in Chinese): Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. [[pdf]](/pdf_file/Meeting_2020_CO2.pdf)
-- **2020**, The 19th Chinese Ecological Congress, Online, Poster: Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. (Excellent Poster Award) [[pdf]](/pdf_file/Meeting_2020_Online.pdf)
+- **2024**, The 12 th International Conference on Permafrost (ICOP 2024), Yukon Canada, Frostbyte. [[MP4]](https://www.youtube.com/watch?v=bI9li6ZzybY&list=PL66g8op55w_kl6T81uroDczN29IjRTUIa&index=24&ab_channel=PermafrostYoungResearcher%27sNetwork)
+- **2023**, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau. [[PDF]](/pdf_file/Meeting_2023_AsiaFLUX.pdf)
+- **2023**, The 7th Symposium of Young Scholars on Terrestrial Ecosystems, Linzhi Tibet China, Oral (in Chinese): Seasonal differences in response of methane flux to soil temperature over the Qinghai-Tibet Plateau. [[PDF]](/pdf_file/Meeting_2023_Linzhi.pdf)
+- **2021**, International Symposium on Coastal Ecosystems and Global Change, Xiamen Fujian China, Oral: Potential impacts of the increasing coastal flooding on mangrove forest ecosystem. [[PDF]](/pdf_file/Meeting_2021_Xiamen.pdf)
+- **2020**, The 6th Symposium of Young Scholars on Terrestrial Ecosystems, Nanjing Jiangsu China, Oral (in Chinese): Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. [[PDF]](/pdf_file/Meeting_2020_Nanjing.pdf)
+- **2020**, The 2nd Symposium on Greenhouse Gas Monitoring in China, Online, Oral (in Chinese): Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. [[PDF]](/pdf_file/Meeting_2020_CO2.pdf)
+- **2020**, The 19th Chinese Ecological Congress, Online, Poster: Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. (Excellent Poster Award) [[PDF]](/pdf_file/Meeting_2020_Online.pdf)
 
 <br>
 
 # 🤝 Service
-- **2024-2026**, Permafrost Young Researchers Network (PYRN), Executive Committee [[web]](https://pyrn.arcticportal.org/about-us/executive-committee/excom-2024-2026)
+- **2024-2026**, Permafrost Young Researchers Network (PYRN), Executive Committee [[WEB]](https://pyrn.arcticportal.org/about-us/executive-committee/excom-2024-2026)
 - **2023**， Volunteer of Geographic Resources Youth Innovation Forum, Youth Innovation Promotion Association CAS
 - **Peer review**: *Biodiversitas Journal of Biological Diversity*, *Qeios*, ...
 
