@@ -62,6 +62,15 @@ line 8
 }
 ```
 
+## To make the link open in a new tab
+**_includes/masthead.html**
+```
+<li class="masthead__menu-item">
+    <a href="{{ domain }}{{ link.url }}" target="_blank">{{ link.title }}</a>
+</li>
+```
+Adding target="_blank" ensures that the link will open in a new tab or window.
+
 ## Change the body font color
 **_sass/_variables.scss**
 Change $text-color from $dark-gray to #000
