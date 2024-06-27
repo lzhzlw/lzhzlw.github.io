@@ -49,7 +49,7 @@ Shanxi University, Taiyuan, China.<br>
 
  <br>
 
-# 📝 Publications <a href='https://scholar.google.com/citations?user=uOj4SbgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>
+# 📝 Publications <a href='https://scholar.google.com/citations?user=uOj4SbgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Total Environ 2024</div><img src='images/SCI_TOTAL_ENVIRON_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
