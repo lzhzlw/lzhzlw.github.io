@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font weight=700 size="5">Zhenhai Liu (刘侦海)</font><br>
+<font weight=700 size="5">Liu Zhenhai (刘侦海)</font><br>
+<span style="font-size: small;">pronunciation: leo jen-hai</span><br>
 Ph.D. candidate <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
