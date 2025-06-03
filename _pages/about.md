@@ -52,7 +52,7 @@ Shanxi University, Taiyuan, China.<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Functional Ecology 2025</div><img src='images/Functional_Ecology_2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Liu, Z.`, Chen, J., Chen, B.✉, Wang, S.. (2024). Temperature constraints of terrestrial ecosystem respiration in global biomes. *Functional Ecology*.
+-	`Liu, Z.`, Chen, J., Chen, B.✉, & Wang, S. (2024). Temperature constraints of terrestrial ecosystem respiration in global biomes. *Functional Ecology*.
 [[DOI]](https://doi.org/10.1111/1365-2435.70075) [[Preview]](/pdf_file/Liu_2025_Functional_Ecology.pdf)
 
 </div>
@@ -79,7 +79,7 @@ Shanxi University, Taiyuan, China.<br>
 - 	Li, X., `Liu, Z.`✉, Wang, S., Li, F., Li, H., Zhu, T., Qian, Z., Tu, Y., Liu, Y., Wang, X., Wang, Q., Shi, W., & Li, D. (2022). Spatial characteristics of the stability of mangrove ecosystems in freshwater and seawater floods in Southeast Asia. *Journal of Geographical Sciences*, 32(9), 1831–1846.
 [[DOI]](https://doi.org/10.1007/s11442-022-2025-2) [[Preview]](/pdf_file/LiXia2022.pdf)  
 
-- 	`Liu, Z.`, Wang, S., Chen, B.✉. (2021). Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor from 2000 to 2015. *Acta Geographica Sinica*. 76(5): 1231-1244. [刘侦海, 王绍强, & 陈斌. (2021). 2000—2015年中蒙俄经济走廊东段冻土时空变化及植被响应. 地理学报, 76(5), 1231–1244]
+- 	`Liu, Z.`, Wang, S., & Chen, B.✉ (2021). Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor from 2000 to 2015. *Acta Geographica Sinica*. 76(5): 1231-1244. [刘侦海, 王绍强, & 陈斌. (2021). 2000—2015年中蒙俄经济走廊东段冻土时空变化及植被响应. 地理学报, 76(5), 1231–1244]
 [[DOI]](http://www.geog.com.cn/CN/10.11821/dlxb202105014) [[Preview]](/pdf_file/Liu et al_2021_Acta Geographica Sinica.pdf)
 
 <br>
@@ -87,9 +87,9 @@ Shanxi University, Taiyuan, China.<br>
 ### Collaborations
 ---
 **2024**
-- Chen, B., Xu, X.✉, Wang, S., Yang, T. `Liu, Z.`, & Falk, S.. (2024). Carbon dioxide fertilization enhanced carbon sink offset by climate change and land use in Amazonia on a centennial scale. *The Science of The Total Environment*, 955(3), 176903. [[DOI]](https://doi.org/10.1016/j.scitotenv.2024.176903)
+- Chen, B., Xu, X.✉, Wang, S., Yang, T. `Liu, Z.`, & Falk, S. (2024). Carbon dioxide fertilization enhanced carbon sink offset by climate change and land use in Amazonia on a centennial scale. *The Science of The Total Environment*, 955(3), 176903. [[DOI]](https://doi.org/10.1016/j.scitotenv.2024.176903)
 - Li, H., Wang, X.✉, Wang, S.✉, Liu, J., Liu, Y., `Liu, Z.`, Chen, S., Wang, Q., Zhu, T., Wang, L., & Wang, L. (2024). ChinaRiceCalendar – seasonal crop calendars for early-, middle-, and late-season rice in China. *Earth System Science Data*, 16(4), 1689–1701. [[DOI]](https://doi.org/10.5194/essd-16-1689-2024)
-- Chen, B., Wang, P., Wang, S.✉, `Liu, Z.`, & Croft, H.. (2024). Evaluation of leaf-to-canopy upscaling approaches for simulating canopy carbonyl sulfide uptake and gross primary productivity. *Journal of Geophysical Research: Biogeosciences*, 129(3), e2023JG007521. [[DOI]](https://doi.org/10.1029/2023JG007521)
+- Chen, B., Wang, P., Wang, S.✉, `Liu, Z.`, & Croft, H. (2024). Evaluation of leaf-to-canopy upscaling approaches for simulating canopy carbonyl sulfide uptake and gross primary productivity. *Journal of Geophysical Research: Biogeosciences*, 129(3), e2023JG007521. [[DOI]](https://doi.org/10.1029/2023JG007521)
 - Chen, B., Li, Y., Wang, S.✉, Chen, J., Zhang, X., `Liu, Z.`, & Croft, H. (2024). Integrating leaf functional traits improves modelled estimates of carbon and water fluxes at a subtropical evergreen conifer forest. *Ecological Modelling*, 488, 110593. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2023.110593)
 - Chen, S., Li, X., Qian, Z., Wang, S.✉, Wang, M., `Liu, Z.`, et. al. (2024). Drought trend and its impact on ecosystem carbon sequestration in Lancang-Mekong River Basin. *Acta Geographica Sinica*. 79(3), 747–764. [陈世亮, 李霞, 钱钊晖, 王绍强, 王苗苗, 刘侦海, 李卉, 夏烨, 赵紫祺, 李亭谕, 朱彤彤, 陈璇, 蒋赟浩, & 谷鹏. (2024). 澜沧江——湄公河流域干旱趋势及其对生态系统碳固定的影响. 地理学报, 79(3), 747–764]. [[DOI]](https://doi.org/10.11821/dlxb202403012)
 
