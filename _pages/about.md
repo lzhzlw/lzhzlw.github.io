@@ -132,7 +132,7 @@ Shanxi University, Taiyuan, China.<br>
 <br>
 
 # 🏛️ Presentations & Posters
-- **2024**, AGU2024, Washington, D.C. US, Poster: Asymmetric Warming Effects on Carbon Fluxes in The Tibetan Plateau Alpine Ecosystems. [[PDF]](pdf_file/Meeting_2024_AGU.pdf)
+- **2024**, AGU2024, Washington, D.C. US, Poster: Asymmetric warming effects on carbon fluxes in the Tibetan Plateau alpine ecosystems. [[PDF]](pdf_file/Meeting_2024_AGU.pdf)
 - **2024**, AmeriFlux Annual Meeting 2024, Berkeley US, Poster: The high-temperature shifts ecosystem respiration: Underestimated temperature dependence and overestimated trending. [[PNG]](/pdf_file/Meeting_2024_AmeriFlux.png)
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024), Yukon Canada, Frostbyte. [[YouTube]](https://www.youtube.com/watch?v=bI9li6ZzybY&list=PL66g8op55w_kl6T81uroDczN29IjRTUIa&index=24&ab_channel=PermafrostYoungResearcher%27sNetwork)
 - **2023**, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau. [[PDF]](/pdf_file/Meeting_2023_AsiaFLUX.pdf)
