@@ -55,7 +55,7 @@ Shanxi University, Taiyuan, China.<br>
 <div class='paper-box-text' markdown="1">
 
 -	`Liu, Z.`, Chen, J., Chen, B.✉, Wang, S.. (2024). Temperature constraints of terrestrial ecosystem respiration in global biomes. *Functional Ecology*.
-[[DOI]](https://doi.org/10.1111/1365-2435.70075) [[Preview]](/pdf_file/Liu_2025_Functional_Ecology.pdf.pdf)
+[[DOI]](https://doi.org/10.1111/1365-2435.70075) [[Preview]](/pdf_file/Liu_2025_Functional_Ecology.pdf)
 
 </div>
 </div>
