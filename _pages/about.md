@@ -21,15 +21,13 @@ redirect_from:
 Ph.D. Candidate <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
-11A, Datun Road, Chaoyang District, Beijing, 100101, China <br>
-Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn</a> <br> 
+Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn</a>, <a href="mailto:liuzhe35@msu.edu">liuzhe35@msu.edu</a> <br> 
 
 <br>
 
 # 🧐 Research Interests：
 - Global Change Ecology
 - Ecosystem Carbon Cycle
-- Cryosphere
 - Process-based Modeling
 
 <br>
@@ -117,7 +115,7 @@ Shanxi University, Taiyuan, China.<br>
 
 ### Software Copyright
 ---
-- **2023**. Liu Z., Chen B., Wang S. Hourly frozen soil profile heat transfer simulator
+- **2023**. Liu Z., Chen B., Wang S. Hourly frozen soil profile heat transfer simulator. 2023SR1792669
 - **2021**. Li H., Wang S., Liu Z., Zhu T. Extreme climate index Sen+Mann-Kendall trend analysis system software. 2021SR0638388
 
 <br>
@@ -133,6 +131,7 @@ Shanxi University, Taiyuan, China.<br>
 <br>
 
 # 🏛️ Presentations & Posters
+- **2024**, AGU2024, Washington, D.C. US, Poster: Asymmetric Warming Effects on Carbon Fluxes in The Tibetan Plateau Alpine Ecosystems. [[PNG]](pdf_file/Meeting_2024_AGU.pdf)
 - **2024**, AmeriFlux Annual Meeting 2024, Berkeley US, Poster: The high-temperature shifts ecosystem respiration: Underestimated temperature dependence and overestimated trending. [[PNG]](/pdf_file/Meeting_2024_AmeriFlux.png)
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024), Yukon Canada, Frostbyte. [[YouTube]](https://www.youtube.com/watch?v=bI9li6ZzybY&list=PL66g8op55w_kl6T81uroDczN29IjRTUIa&index=24&ab_channel=PermafrostYoungResearcher%27sNetwork)
 - **2023**, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau. [[PDF]](/pdf_file/Meeting_2023_AsiaFLUX.pdf)
@@ -146,16 +145,7 @@ Shanxi University, Taiyuan, China.<br>
 
 # 🤝 Service
 - **2024-2026**, Permafrost Young Researchers Network (PYRN), Executive Committee [[WEB]](https://pyrn.arcticportal.org/about-us/executive-committee/excom-2024-2026)
-- **2023**， Volunteer of Geographic Resources Youth Innovation Forum, Youth Innovation Promotion Association CAS
-- **Peer review**: *Biodiversitas Journal of Biological Diversity*, *Qeios*, ...
-
-<br>
-
-# 🦾 Skills & Expertise
-- Model: Boreal Ecosystem Productivity Simulator (BEPS)
-- Flux data processing: PyFluxPro
-- Programming: C/C++, MATLAB, Python, R
-- Softwere: ArcGIS, ENVI
+- **2023**, Volunteer of Geographic Resources Youth Innovation Forum, Youth Innovation Promotion Association CAS
 
 <br>
 
