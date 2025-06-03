@@ -101,13 +101,13 @@ Shanxi University, Taiyuan, China.<br>
 **2022**
 - Zhu, T., Wang, S.✉, Li, H., Li, X., `Liu, Z.`, et. al. (2022). Variation characteristics and correlation between vegetation phenology and extreme precipitation in Indo-China Peninsula. *Tropical Geography*. 43(3): 532-544. [朱彤彤, 王绍强, 李卉, 李霞, 刘侦海, 钱钊晖, 王小博, 刘媛媛, & 涂勇凯. (2023). 中南半岛植被物候与极端降水的变化特征及关联. 热带地理, 43(3), 532–544] [[DOI]](http://www.rddl.com.cn/EN/10.13284/j.cnki.rddl.003637)
 - Li, H., Zhu, T., `Liu, Z.`, Li, X., Wang, S.✉, et. al. (2022). Stability differences of coastal and inland vegetation to flood events in Southeast Asia. *Acta Ecologica Sinica*. 42(16): 6745-6757. [李卉, 朱彤彤, 刘侦海, 李霞, 王绍强, 王小博, & 刘媛媛. (2022). 东南亚沿海与内陆植被对洪水事件响应的稳定性差异研究. 生态学报, 42(16)] [[DOI]](https://www.ecologica.cn/stxb/article/abstract/stxb202103130679)
-- Tu Y., Wang S.✉, Huang M., Zhang, H., Chen, B., `Liu, Z.`, et al. (2022). Optimization and Adjustment of Forestry Industrial Structure in Fujian Province [J]. *Forest Inventory and Planning*. 47(1): 135-140. [涂勇凯, 王绍强, 黄玫, 张慧芳, 陈斌, & 刘侦海. (2022). 福建省林业产业结构优化调整分析. 林业调查规划, 47(1), 135–140]. [[DOI]](https://doi.org/10.3969/j.issn.1671-3168.2022.01.023)
+- Tu Y., Wang S.✉, Huang M., Zhang, H., Chen, B., `Liu, Z.`, et al. (2022). Optimization and adjustment of forestry industrial structure in Fujian province [J]. *Forest Inventory and Planning*. 47(1): 135-140. [涂勇凯, 王绍强, 黄玫, 张慧芳, 陈斌, & 刘侦海. (2022). 福建省林业产业结构优化调整分析. 林业调查规划, 47(1), 135–140]. [[DOI]](https://doi.org/10.3969/j.issn.1671-3168.2022.01.023)
 
 **2021**
-- Chen, B., Lu, X., Wang, S.✉, Chen, J.M., Liu, Y., Fang, H., `Liu, Z.`, et. al. (2021). Evaluation of Clumping Effects on the Estimation of Global Terrestrial Evapotranspiration. *Remote Sensing*, 13(20), 4075. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2022.110212)
+- Chen, B., Lu, X., Wang, S.✉, Chen, J.M., Liu, Y., Fang, H., `Liu, Z.`, et. al. (2021). Evaluation of clumping effects on the estimation of global terrestrial evapotranspiration. *Remote Sensing*, 13(20), 4075. [[DOI]](https://doi.org/10.1016/j.ecolmodel.2022.110212)
 
 **2020**
-- Chen, B., Arain, M.A., Chen, J.M., Wang, S.✉, Fang, H., `Liu, Z.`, et. al. (2020). Importance of Shaded Leaf Contribution to the Total GPP of Canadian Terrestrial Ecosystems: Evaluation of MODIS GPP. *Journal of Geophysical Research: Biogeosciences*, 125(10), e2020JG005917. [[DOI]](https://doi.org/10.1029/2020JG005917)
+- Chen, B., Arain, M.A., Chen, J.M., Wang, S.✉, Fang, H., `Liu, Z.`, et. al. (2020). Importance of shaded leaf contribution to the total GPP of Canadian terrestrial ecosystems: evaluation of MODIS GPP. *Journal of Geophysical Research: Biogeosciences*, 125(10), e2020JG005917. [[DOI]](https://doi.org/10.1029/2020JG005917)
 
 **2019**
 - Cheng, Y., Zhang, H.✉, `Liu, Z.`, et. al. (2019). Hybrid algorithm for short-term forecasting of PM2.5 in China. *Atmospheric Environment*, 200, 264–279. [[DOI]](https://doi.org/10.1016/j.atmosenv.2018.12.025)
