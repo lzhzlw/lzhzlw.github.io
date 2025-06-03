@@ -51,10 +51,19 @@ Shanxi University, Taiyuan, China.<br>
 
 # 📝 Publications <a href='https://scholar.google.com/citations?user=uOj4SbgAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=Citations"></a>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Functional Ecology 2025</div><img src='images/Functional_Ecology_2025.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	`Liu, Z.`, Chen, J., Chen, B.✉, Wang, S.. (2024). Temperature constraints of terrestrial ecosystem respiration in global biomes. *Functional Ecology*.
+[[DOI]](https://doi.org/10.1111/1365-2435.70075) [[Preview]](/pdf_file/Liu_2025_Functional_Ecology.pdf.pdf)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Total Environ 2024</div><img src='images/SCI_TOTAL_ENVIRON_2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Liu, Z.`, Chen, B.✉, Wang, S.✉, Xu, X., Chen, H., Liu, X., He, J.-S., Wang, J., Wang, J., Chen, J., Wang, X., Zheng, C., Zhu, K., & Wang, X. (2024). More enhanced non-growing season methane exchanges under warming on the Qinghai-Tibetan Plateau. *Science of The Total Environment*, 917, 170438. (JCR:Q1; IF:9.8)
+-	`Liu, Z.`, Chen, B.✉, Wang, S.✉, Xu, X., Chen, H., Liu, X., He, J.-S., Wang, J., Wang, J., Chen, J., Wang, X., Zheng, C., Zhu, K., & Wang, X. (2024). More enhanced non-growing season methane exchanges under warming on the Qinghai-Tibetan Plateau. *Science of The Total Environment*, 917, 170438.
 [[DOI]](https://dx.doi.org/10.1016/j.scitotenv.2024.170438) [[Preview]](/pdf_file/Liu_2024_More enhanced non-growing season methane exchanges.pdf)
 
 </div>
@@ -63,7 +72,7 @@ Shanxi University, Taiyuan, China.<br>
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ecol Model 2021</div><img src='images/Eco_Modeling_2021.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Liu, Z.`, Chen, B.✉, Wang, S.✉, Wang, Q., Chen, J., Shi, W., Wang, X., Liu, Y., Tu, Y., Huang, M., Wang, J., Wang, Z., Li, H., & Zhu, T. (2021). The impacts of vegetation on the soil surface freezing-thawing processes at permafrost southern edge simulated by an improved process-based ecosystem model. *Ecological Modelling*, 456, 109663. (JCR:Q2; IF:3.1)  
+-	`Liu, Z.`, Chen, B.✉, Wang, S.✉, Wang, Q., Chen, J., Shi, W., Wang, X., Liu, Y., Tu, Y., Huang, M., Wang, J., Wang, Z., Li, H., & Zhu, T. (2021). The impacts of vegetation on the soil surface freezing-thawing processes at permafrost southern edge simulated by an improved process-based ecosystem model. *Ecological Modelling*, 456, 109663. 
 [[DOI]](https://dx.doi.org/10.1016/j.ecolmodel.2021.109663) [[Preview]](/pdf_file/Liu et al_2021_Ecological Modelling.pdf)
 
 </div>
