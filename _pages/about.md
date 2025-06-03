@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<font weight=700 size="5">LIU Zhenhai (刘侦海) </font> /ljuː dʒən-haɪ/<br><br>
+<font weight=700 size="5">LIU Zhenhai (刘侦海) </font> <br>
 Ph.D. Candidate <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
