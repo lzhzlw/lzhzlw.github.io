@@ -91,6 +91,9 @@ Shanxi University, Taiyuan, China.<br>
 - 	`Liu, Z.`, Wang, S., & Chen, B.✉ (2021). Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor from 2000 to 2015. *Acta Geographica Sinica*. 76(5): 1231-1244. [刘侦海, 王绍强, & 陈斌. (2021). 2000—2015年中蒙俄经济走廊东段冻土时空变化及植被响应. 地理学报, 76(5), 1231–1244]
 [[DOI]](http://www.geog.com.cn/CN/10.11821/dlxb202105014) [[Preview]](/pdf_file/Liu et al_2021_Acta Geographica Sinica.pdf)
 
+</div>
+</div>
+
 <br>
 
 ### Collaborations
