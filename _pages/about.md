@@ -76,9 +76,18 @@ Shanxi University, Taiyuan, China.<br>
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Geogr. Sci. 2022</div><img src='images/dilixuebao_2022.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - 	Li, X., `Liu, Z.`✉, Wang, S., Li, F., Li, H., Zhu, T., Qian, Z., Tu, Y., Liu, Y., Wang, X., Wang, Q., Shi, W., & Li, D. (2022). Spatial characteristics of the stability of mangrove ecosystems in freshwater and seawater floods in Southeast Asia. *Journal of Geographical Sciences*, 32(9), 1831–1846.
 [[DOI]](https://doi.org/10.1007/s11442-022-2025-2) [[Preview]](/pdf_file/LiXia2022.pdf)  
 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Acta Geographica Sinica 地理学报 2021</div><img src='images/dilixuebao_2021.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
 - 	`Liu, Z.`, Wang, S., & Chen, B.✉ (2021). Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor from 2000 to 2015. *Acta Geographica Sinica*. 76(5): 1231-1244. [刘侦海, 王绍强, & 陈斌. (2021). 2000—2015年中蒙俄经济走廊东段冻土时空变化及植被响应. 地理学报, 76(5), 1231–1244]
 [[DOI]](http://www.geog.com.cn/CN/10.11821/dlxb202105014) [[Preview]](/pdf_file/Liu et al_2021_Acta Geographica Sinica.pdf)
 
