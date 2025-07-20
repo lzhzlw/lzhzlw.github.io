@@ -98,6 +98,9 @@ Shanxi University, Taiyuan, China.<br>
 
 ### Collaborations
 ---
+**2025**
+- Qian, Z., Chen, S., Li, X., Wang, S., `Liu, Z.`, Chen, X., & Darjee, A. (2025). The Response of Vegetation Productivity to the El Niño-Southern Oscillation in Southeast Asia. Journal of Geophysical Research: Biogeosciences, 130(7), e2024JG008606. [[DOI]](https://doi.org/10.1029/2024JG008606)
+
 **2024**
 - Chen, B., Xu, X.✉, Wang, S., Yang, T. `Liu, Z.`, & Falk, S. (2024). Carbon dioxide fertilization enhanced carbon sink offset by climate change and land use in Amazonia on a centennial scale. *The Science of The Total Environment*, 955(3), 176903. [[DOI]](https://doi.org/10.1016/j.scitotenv.2024.176903)
 - Li, H., Wang, X.✉, Wang, S.✉, Liu, J., Liu, Y., `Liu, Z.`, Chen, S., Wang, Q., Zhu, T., Wang, L., & Wang, L. (2024). ChinaRiceCalendar – seasonal crop calendars for early-, middle-, and late-season rice in China. *Earth System Science Data*, 16(4), 1689–1701. [[DOI]](https://doi.org/10.5194/essd-16-1689-2024)
