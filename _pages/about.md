@@ -36,7 +36,7 @@ Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn<
 **Ph.D. (2022–) | Ecology**<br>
 Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Sciences, Beijing, China.<br>
 
-**Visiting Student (2024–)**<br>
+**Visiting Scholar (2024/5–2025/10)**<br>
 Michigan State University, East Lansing, USA. <br>
 
 **M.S. (2019–2022) | Geography**<br>
