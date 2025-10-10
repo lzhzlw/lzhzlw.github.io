@@ -21,7 +21,7 @@ redirect_from:
 Ph.D. Candidate <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
-Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn</a>, <a href="mailto:liuzhe35@msu.edu">liuzhe35@msu.edu</a> <br> 
+Email: <a href="mailto:liuzhenhai5436@igsnrr.ac.cn">liuzhenhai5436@igsnrr.ac.cn</a>, <a href="mailto:liu.zhenhai@outlook.com">liuzhe35@msu.edu</a> <br> 
 
 <br>
 
