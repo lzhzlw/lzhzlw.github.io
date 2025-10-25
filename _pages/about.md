@@ -55,6 +55,9 @@ Shanxi University, Taiyuan, China.<br>
 -	`Liu, Z.`, Chen, J., Chen, B.✉, & Wang, S. (2024). Temperature constraints of terrestrial ecosystem respiration in global biomes. *Functional Ecology*.
 [[DOI]](https://doi.org/10.1111/1365-2435.70075) [[Preview]](/pdf_file/Liu_2025_Functional_Ecology.pdf)
 
+> Reviewer 1: This is an important topic given uncertainties in respiration response to rising temperature, from laboratory to ecosystem to global scales. The ms is well written, interesting, and the analysis generally clearly described.
+> Reviewer 2: This is an outstanding paper which quantifies the temperature dependence of terrestrial ecosystem respiration (Re) from the vast FLUXNET datasets....This is a very well written and executed study. It was a pleasure to read and offers real novel insight on the subject.
+
 </div>
 </div>
 
