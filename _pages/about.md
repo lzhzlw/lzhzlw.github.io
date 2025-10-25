@@ -104,6 +104,7 @@ Shanxi University, Taiyuan, China.<br>
 ### Collaborations
 ---
 **2025**
+- Ni, C., Zhang, Z., Zhu, B., `Liu, Z.`, & Wang, S. (2025). High Carbon Emission Simulated in the Permafrost Degradation Regions of the Qinghai–Tibet Plateau by Remote Sensing and Deep Learning Modules. IEEE Transactions on Geoscience and Remote Sensing, 63, 1–12. [[DOI]](https://doi.org/10.1109/TGRS.2025.3593421)
 - Qian, Z., Chen, S., Li, X., Wang, S., `Liu, Z.`, Chen, X., & Darjee, A. (2025). The Response of Vegetation Productivity to the El Niño-Southern Oscillation in Southeast Asia. Journal of Geophysical Research: Biogeosciences, 130(7), e2024JG008606. [[DOI]](https://doi.org/10.1029/2024JG008606)
 
 **2024**
