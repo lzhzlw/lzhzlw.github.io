@@ -56,6 +56,7 @@ Shanxi University, Taiyuan, China.<br>
 [[DOI]](https://doi.org/10.1111/1365-2435.70075) [[Preview]](/pdf_file/Liu_2025_Functional_Ecology.pdf)
 
 </div>
+</div>
 
 > Reviewer 1: This is an important topic given uncertainties in respiration response to rising temperature, from laboratory to ecosystem to global scales. ... The ms is well written, interesting, and the analysis generally clearly described.
 > 
