@@ -21,7 +21,7 @@ redirect_from:
 Ph.D. Candidate <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
-Email: <a href="mailto:liu.zhenhai@outlook.com">liu.zhenhai@outlook.com</a> <br> 
+Email: <a href="mailto:liu.zhenhai@qq.com">liu.zhenhai@qq.com</a> <br> 
 
 <br>
 
