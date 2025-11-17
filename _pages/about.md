@@ -59,9 +59,9 @@ Shanxi University, Taiyuan, China.<br>
 </div>
 </div>
 
-> Reviewer 1: This is an important topic given uncertainties in respiration response to rising temperature, from laboratory to ecosystem to global scales. ... The ms is well written, interesting, and the analysis generally clearly described.
+> **Reviewer 1**: This is an important topic given uncertainties in respiration response to rising temperature, from laboratory to ecosystem to global scales. ... The ms is well written, interesting, and the analysis generally clearly described.
 > 
-> Reviewer 2: This is an outstanding paper which quantifies the temperature dependence of terrestrial ecosystem respiration (Re) from the vast FLUXNET datasets. ... This is a very well written and executed study. It was a pleasure to read and offers real novel insight on the subject.
+> **Reviewer 2**: This is an outstanding paper which quantifies the temperature dependence of terrestrial ecosystem respiration (Re) from the vast FLUXNET datasets. ... This is a very well written and executed study. It was a pleasure to read and offers real novel insight on the subject.
 
 ---
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sci Total Environ 2024</div><img src='images/SCI_TOTAL_ENVIRON_2024.png' alt="sym" width="100%"></div></div>
