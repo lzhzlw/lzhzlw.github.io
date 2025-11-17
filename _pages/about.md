@@ -22,7 +22,7 @@ Ph.D. Candidate <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
 University of Chinese Academy of Sciences <br>
 Email: <a href="mailto:liu.zhenhai@qq.com">liu.zhenhai@qq.com</a> <br> 
-CV: [[Nov. 2025]](/pdf_file/CV_202511.pdf) <br>
+CV: [🖺 Nov. 2025](/pdf_file/CV_202511.pdf) <br>
 
 <br>
 
