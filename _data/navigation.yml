@@ -3,7 +3,7 @@ main:
   - title: "About me"
     url: "/#about-me"
     
-  - title: "Blog"
+  - title: "Notes&Codes"
     url: "/blog/"
   
   - title: "Photography"
