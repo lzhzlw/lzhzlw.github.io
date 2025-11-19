@@ -5,9 +5,12 @@ excerpt: ""
 author_profile: true
 ---
 
-# Codes, Notes, and Blogs Sharing
-<img src='./images/CSDN.png' style='width: 8em;'> [Portal](https://blog.csdn.net/qq_32832803)
+# Code, Note, and Blog Sharing
+## My personal CSDN blog
+<img src='./images/CSDN.png' style='width: 6em;'>  [Link🔗](https://blog.csdn.net/qq_32832803)
 
 <br>
 
 
+## References
+1. Xiangmin (Sam) Sun, et. al. Code Snippet Sharing for Flux Research. 2025 AmeriFlux Annual Meeting. [Link🔗]([https://blog.csdn.net/qq_32832803](https://docs.google.com/presentation/d/1CJKqdqAxqfoU0XZ6XmdEQlAFKW5jzZ_MtppufimSD9k/edit?slide=id.g38e0ebae17f_0_1#slide=id.g38e0ebae17f_0_1))  [Cpoy🥷]([/pdf_file/2025 AmeriFlux Annual Meeting Code Snippet Sharing for Flux Research.pptx)) 
