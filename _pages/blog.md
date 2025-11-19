@@ -5,9 +5,9 @@ excerpt: ""
 author_profile: true
 ---
 
-# Code, Note, and Blog Sharing
+# Code, Note, and Blog
 ## My personal CSDN blog
-<img src='./images/CSDN.png' style='width: 6em;'>  [Link🔗](https://blog.csdn.net/qq_32832803)
+<img src='./images/CSDN.png' style='width: 4em;'>  [Link🔗](https://blog.csdn.net/qq_32832803)
 
 <br>
 
