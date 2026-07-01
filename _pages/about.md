@@ -48,7 +48,7 @@ China University of Geosciences, Wuhan, China. <br>
 Shanxi University, Taiyuan, China.<br>
 
 # ⚛️ Work Experience
-**Postdoc (2026/6-)**
+**Postdoc (2026/6-)** <br>
 Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Sciences, Beijing, China.<br>
 Lab: [Huang's Lab](http://www.yyhuang.cn/)
 
