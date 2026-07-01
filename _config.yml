@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "LIU Zhenhai"
-description              : "PhD Candidate | Ecology"
+description              : "Postdoc"
 repository               : "lzhzlw/lzhzlw.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "LIU Zhenhai"
   avatar           : "images/portrait.jpg"
-  bio              : "University of Chinese Academy of Sciences"
+  bio              : "Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences"
   location         : "Beijing, China"
-  employer         : #"University of Chinese Academy of Sciences"
+  employer         : #"Chinese Academy of Sciences"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uOj4SbgAAAAJ"
   email            : "liuzhenhai5436@igsnrr.ac.cn"
