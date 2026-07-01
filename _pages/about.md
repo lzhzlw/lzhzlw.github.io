@@ -18,9 +18,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <font weight=700 size="5">LIU Zhenhai (刘侦海) </font> <br>
-Ph.D. Candidate <br>
+Postdoc <br>
 Institute of Geographic Sciences and Natural Resources Research <br>
-University of Chinese Academy of Sciences <br>
+Chinese Academy of Sciences <br>
 Email: <a href="mailto:liu.zhenhai@qq.com">liu.zhenhai@qq.com</a> <br> 
 WeChat: lzhzlw <br>
 CV: [🖺 Nov. 2025](/pdf_file/CV_202511.pdf) <br>
@@ -35,17 +35,22 @@ CV: [🖺 Nov. 2025](/pdf_file/CV_202511.pdf) <br>
 <br>
 
 # 🎓 Education
-**Ph.D. (2022–) | Ecology**<br>
+**Ph.D. (2022/9–2026/6) | Ecology**<br>
 Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Sciences, Beijing, China.<br>
 
 **Visiting Scholar (2024/5–2025/10)**<br>
 Michigan State University, East Lansing, USA. <br>
 
-**M.S. (2019–2022) | Geography**<br>
+**M.S. (2019/9–2022/6) | Geography**<br>
 China University of Geosciences, Wuhan, China. <br>
 
-**B.S. (2015–2019) | Physical Geography and Resources Environment**<br>
+**B.S. (2015/10–2019/6) | Physical Geography and Resources Environment**<br>
 Shanxi University, Taiyuan, China.<br>
+
+# ⚛️ Work Experience
+** Postdoc (2026/6-)
+Institute of Geographic Sciences and Natural Resources Research, University of Chinese Academy of Sciences, Beijing, China.<br>
+Lab: [Huang's Lab](http://www.yyhuang.cn/)
 
  <br>
 
@@ -105,6 +110,9 @@ Shanxi University, Taiyuan, China.<br>
 
 ### Collaborations
 ---
+**2026**
+- Wang, J., Chen J., Fan P., Myint S. W, Liu Z., et al. (2026). Asymmetric Urban–Rural Continuums (URCs) of Southeast Asian Cities. *Environmental Research Letters*, 21(12), 124040. [[DOI]](https://doi.org/10.1088/1748-9326/ae7e94).
+
 **2025**
 - Ni, C., Zhang, Z., Zhu, B., `Liu, Z.`, & Wang, S. (2025). High carbon emission simulated in the permafrost degradation regions of the Qinghai–Tibet Plateau by remote sensing and deep learning modules. *IEEE Transactions on Geoscience and Remote Sensing*, 63, 1–12. [[DOI]](https://doi.org/10.1109/TGRS.2025.3593421)
 - Qian, Z., Chen, S., Li, X., Wang, S., `Liu, Z.`, Chen, X., & Darjee, A. (2025). The response of vegetation productivity to the El Niño-Southern Oscillation in Southeast Asia. *Journal of Geophysical Research: Biogeosciences*, 130(7), e2024JG008606. [[DOI]](https://doi.org/10.1029/2024JG008606)
