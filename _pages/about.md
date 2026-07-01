@@ -111,7 +111,7 @@ Lab: [Huang's Lab](http://www.yyhuang.cn/)
 ### Collaborations
 ---
 **2026**
-- Wang, J., Chen J., Fan P., Myint S. W, Liu Z., et al. (2026). Asymmetric Urban–Rural Continuums (URCs) of Southeast Asian Cities. *Environmental Research Letters*, 21(12), 124040. [[DOI]](https://doi.org/10.1088/1748-9326/ae7e94).
+- Wang, J., Chen, J., Fan, P., Myint, S. W, `Liu, Z.`, et al. (2026). Asymmetric Urban–Rural Continuums (URCs) of Southeast Asian Cities. *Environmental Research Letters*, 21(12), 124040. [[DOI]](https://doi.org/10.1088/1748-9326/ae7e94).
 
 **2025**
 - Ni, C., Zhang, Z., Zhu, B., `Liu, Z.`, & Wang, S. (2025). High carbon emission simulated in the permafrost degradation regions of the Qinghai–Tibet Plateau by remote sensing and deep learning modules. *IEEE Transactions on Geoscience and Remote Sensing*, 63, 1–12. [[DOI]](https://doi.org/10.1109/TGRS.2025.3593421)
@@ -164,6 +164,8 @@ Lab: [Huang's Lab](http://www.yyhuang.cn/)
 <br>
 
 # 🏛️ Presentations & Posters
+- **2026**, The 2nd Symposium on Vegetation Remote Sensing and Carbon Cycle, Suzhou Jiangsu China, Oral: Characteristics and simulation of temperature dependence of respiration in terrestrial ecosystem process models. [[PDF]](pdf_file/Meeting_2026_Suzhou_NanjingUniversity.pdf)
+- **2026**, EGU2026, Vienna, Austria, Poster: Temperature constraints of terrestrial ecosystem respiration in global biomes. [[PDF]](pdf_file/Meeting_2026_EGU.pdf)
 - **2024**, AGU2024, Washington, D.C. US, Poster: Asymmetric warming effects on carbon fluxes in the Tibetan Plateau alpine ecosystems. [[PDF]](pdf_file/Meeting_2024_AGU.pdf)
 - **2024**, AmeriFlux Annual Meeting 2024, Berkeley US, Poster: The high-temperature shifts ecosystem respiration: Underestimated temperature dependence and overestimated trending. [[PNG]](/pdf_file/Meeting_2024_AmeriFlux.png)
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024), Yukon Canada, Frostbyte. [[YouTube]](https://www.youtube.com/watch?v=bI9li6ZzybY&list=PL66g8op55w_kl6T81uroDczN29IjRTUIa&index=24&ab_channel=PermafrostYoungResearcher%27sNetwork)
