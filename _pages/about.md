@@ -48,7 +48,7 @@ China University of Geosciences, Wuhan, China. <br>
 Shanxi University, Taiyuan, China.<br>
 
 # ⚛️ Work Experience
-**Postdoc (2026/6-)** <br>
+**Postdoc (2026/7-)** <br>
 Institute of Geographic Sciences and Natural Resources Research, Chinese Academy of Sciences, Beijing, China.<br>
 Lab: [Huang's Lab](http://www.yyhuang.cn/)
 
@@ -164,13 +164,13 @@ Lab: [Huang's Lab](http://www.yyhuang.cn/)
 <br>
 
 # 🏛️ Presentations & Posters
-- **2026**, The 2nd Symposium on Vegetation Remote Sensing and Carbon Cycle, Suzhou Jiangsu China, Oral: Characteristics and simulation of temperature dependence of respiration in terrestrial ecosystem process models. [[PDF]](pdf_file/Meeting_2026_Suzhou_NanjingUniversity.pdf)
+- **2026**, The 2nd Symposium on Vegetation Remote Sensing and Carbon Cycle, Suzhou Jiangsu China, Oral (in Chinese): Characteristics and simulation of temperature dependence of respiration in terrestrial ecosystem process models. [[PDF]](pdf_file/Meeting_2026_Suzhou_NanjingUniversity.pdf)
 - **2026**, EGU2026, Vienna, Austria, Poster: Temperature constraints of terrestrial ecosystem respiration in global biomes. [[PDF]](pdf_file/Meeting_2026_EGU.pdf)
 - **2024**, AGU2024, Washington, D.C. US, Poster: Asymmetric warming effects on carbon fluxes in the Tibetan Plateau alpine ecosystems. [[PDF]](pdf_file/Meeting_2024_AGU.pdf)
 - **2024**, AmeriFlux Annual Meeting 2024, Berkeley US, Poster: The high-temperature shifts ecosystem respiration: Underestimated temperature dependence and overestimated trending. [[PNG]](/pdf_file/Meeting_2024_AmeriFlux.png)
 - **2024**, The 12 th International Conference on Permafrost (ICOP 2024), Yukon Canada, Frostbyte. [[YouTube]](https://www.youtube.com/watch?v=bI9li6ZzybY&list=PL66g8op55w_kl6T81uroDczN29IjRTUIa&index=24&ab_channel=PermafrostYoungResearcher%27sNetwork)
 - **2023**, AsiaFlux Conference 2023, Jeju Korea, Oral: More enhanced non-growing season methane ex-changes under warming on the Qinghai-Tibetan Plateau. [[PDF]](/pdf_file/Meeting_2023_AsiaFLUX.pdf)
-- **2023**, The 7th Symposium of Young Scholars on Terrestrial Ecosystems, Linzhi Tibet China, Oral (in Chinese): Seasonal differences in response of methane flux to soil temperature over the Qinghai-Tibet Plateau. [[PDF]](/pdf_file/Meeting_2023_Linzhi.pdf)
+- **2023**, The 7th Symposium of Young Scholars on Terrestrial Ecosystems, Linzhi Tibet China, Oral c: Seasonal differences in response of methane flux to soil temperature over the Qinghai-Tibet Plateau. [[PDF]](/pdf_file/Meeting_2023_Linzhi.pdf)
 - **2021**, International Symposium on Coastal Ecosystems and Global Change, Xiamen Fujian China, Oral: Potential impacts of the increasing coastal flooding on mangrove forest ecosystem. [[PDF]](/pdf_file/Meeting_2021_Xiamen.pdf)
 - **2020**, The 6th Symposium of Young Scholars on Terrestrial Ecosystems, Nanjing Jiangsu China, Oral (in Chinese): Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. [[PDF]](/pdf_file/Meeting_2020_Nanjing.pdf)
 - **2020**, The 2nd Symposium on Greenhouse Gas Monitoring in China, Online, Oral (in Chinese): Spatial and temporal variations of frozen ground and its vegetation response in the eastern segment of China-Mongolia-Russia economic corridor. [[PDF]](/pdf_file/Meeting_2020_CO2.pdf)
